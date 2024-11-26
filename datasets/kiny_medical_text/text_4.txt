@@ -8,13 +8,463 @@
 
 769. Ingaruka zikomeye z’inkingo ni ibintu biba gake cyane, bikaba hagati y’umuntu umwe cyangwa babiri mu bantu miliyoni imwe bahawe urukingo. Abaganga bahugurwa by’umwihariko ku kumenya no kuvura izo ngaruka, bagahora biteguye umutekano w’abarwayi. Uburyo bukomeye bwo kugenzura umutekano w’inkingo buhora bukurikirana izo ngaruka, bigatuma inkingo zikomeza kugira umutekano wizewe.
 
-770. Kurikirana ahaterwa urushinge kugira ngo urebe niba harimo ibimenyetso by’umutuku cyangwa kubyimba mu minsi ikurikira guterwa urukingo. Agapfundo gato kandi gakomeye ahaterwa urukingo ni ibisanzwe kandi karashira nyuma y’iminsi mike. Ariko niba umutuku urenze ingano y’umupira wa golf cyangwa kubyimba bigakomeza kurenza iminsi itatu, hamagara muganga wawe ngo agufashe.
+770. Kurikirana ahaterwa urushinge kugira ngo urebe niba harimo ibimenyetso by’umutuku cyangwa kubyimba mu minsi ikurikira guterwa urukingo. Agapfundo gato kandi gakomeye ahaterwa urukingo ni ibisanzwe kandi karashira nyuma y’iminsi mike. Ariko niba umutuku urenze ingano y’umupira wa gorufe cyangwa kubyimba bigakomeza kurenza iminsi itatu, hamagara muganga wawe ngo agufashe.
 
 771. Ibizamini by’umutekano w’inkingo ni inzira y’ubushishozi ikorerwa mu gihe kirekire kandi igizwe n’ibyiciro byinshi by’igeragezwa ry’ubuvuzi mbere y’uko byemezwa. Nyuma yo kwemezwa, uburyo bwo gukurikirana buhoraho bukomeza gukurikirana ibibazo byose bishobora kubaho. Abashinzwe ubuzima bakurikirana neza kandi bakagira icyo bakora vuba ku bibazo byose bigaragara mu gihe inkingo zikoreshwa mu buryo bwagutse.
 
-772. Iyo abana b’infant bakunze kurira nyuma yo guterwa urukingo, kubayunyuza no kubahobera bishobora kubamara ububabare mu gihe gito. Hari ubwo bashobora gusinzira cyane kurenza ibisanzwe, bikaba ari ibisanzwe kuko umubiri wabo uba ukora kugira ngo wiyubakire ubudahangarwa. Izi mpinduka ziba mu myitwarire akenshi zirangira mu masaha 24-48, ariko niba ubonye ibimenyetso biteye inkeke, hamagara muganga wawe.
+772. Abana bato bakunze kurira nyuma yo guterwa urukingo, kubayunyuza no kubahobera bishobora kubamara ububabare mu gihe gito. Hari ubwo bashobora gusinzira cyane kurenza ibisanzwe, bikaba ari ibisanzwe kuko umubiri wabo uba ukora kugira ngo wiyubakire ubudahangarwa. Izi mpinduka ziba mu myitwarire akenshi zirangira mu masaha 24-48, ariko niba ubonye ibimenyetso biteye inkeke, hamagara muganga wawe.
 
 773. Mbere yo guterwa urukingo, ni ingenzi kuganira byimbitse na muganga wawe ku birebana n’ingaruka ushobora kugira, harimo ibiribwa, imiti, inkingo, cyangwa ibindi bintu bishobora kugutera ikibazo. Muganga wawe azasuzuma neza amateka y’ingaruka kugira ngo afate ingamba z’umutekano mu gihe uterwa urukingo, nko kugukurikiranaho igihe kirekire cyangwa gukoresha urukingo rundi rutera izo ngaruka. Nubwo izo ngaruka zikomeye z’inkingo ari nkeya cyane (umuntu umwe mu bantu miliyoni), kumenya ayo makuru bituma abaganga bategura neza uko bagufasha.
 
-774. Gukora no gukurikiza gahunda y’inkingo ni ingenzi mu kubaka no gukomeza ubwirinzi bukomeye ku ndwara zishobora kwirindwa. Shyira amatariki y’inkingo ku byibutsa bitandukanye – mu ikaye yawe, telefone yawe, no ku ikarita y’inkingo – kandi ushyireho uburyo bwo kukwibutsa kugira ngo utazibagirwa doses ziteganyijwe. Kugenda mu buryo bwateganyijwe hagati y’inkingo ni ingenzi kuko umubiri wawe ukeneye igihe runaka kugira ngo wubake ubwirinzi bukwiye. Guhagarika cyangwa gutinda bishobora gusiga icyuho mu bwirinzi bwawe.
+774. Gukora no gukurikiza gahunda y’inkingo ni ingenzi mu kubaka no gukomeza ubwirinzi bukomeye ku ndwara zishobora kwirindwa. Shyira amatariki y’inkingo ku byibutsa bitandukanye mu ikaye yawe, telefone yawe, no ku ikarita y’inkingo  kandi ushyireho uburyo bwo kukwibutsa kugira ngo utazibagirwa doses ziteganyijwe. Kugenda mu buryo bwateganyijwe hagati y’inkingo ni ingenzi kuko umubiri wawe ukeneye igihe runaka kugira ngo wubake ubwirinzi bukwiye. Guhagarika cyangwa gutinda bishobora gusiga icyuho mu bwirinzi bwawe.
 
+775. Kuba umwana afite uburwayi buto nko gufuruta cyangwa umuriro muke ntibibuza umubiri we kubaka ubudahangarwa bukomeye ku nkingo. Ni ngombwa guha muganga amakuru arambuye ku bimenyetso, imiti, cyangwa ubundi buvuzi umwana ari guhabwa kugira ngo harebwe igihe nyacyo cyo guterwa urukingo. Muganga azasuzuma ibi byose afatanyije n’amabwiriza yashyizweho ngo arebe niba urukingo rukomeza gutangwa cyangwa niba habaho gutegereza igihe gito bitewe n’uko umwana ameze.
+
+776. Kunanirwa no kuribwa imitsi bikunze kubaho nyuma yo guterwa urukingo ni ibimenyetso byiza byerekana ko umubiri wawe uri gukora kugira ngo wiyubakire ubwirinzi. Muri iki gihe, akenshi kirangira mu masaha 24-48, ni ngombwa gufata amahoro, kunywa amazi ahagije, no kwirinda ibikorwa bikomeye byatuma ububabare bwiyongera. Ibi bimenyetso bimara igihe gito kandi birangira ubwabyo, ariko wahamagara muganga niba bikomeje cyangwa bikabije.
+
+777. Gufata inyandiko irambuye ku ngaruka z’inkingo bifasha kubaka inyandiko yuzuye y’ubuzima izagenderwaho mu byemezo by’ubuvuzi bizakurikira. Wandike igihe nyacyo ibimenyetso byatangiye, imiterere yabyo, ubukana, uko byagiye bihinduka, uburyo bwo kubivura bwakoreshejwe, ndetse n’igihe byahagaze. Aya makuru afasha muganga wawe gusuzuma ibibazo byihutirwa kandi akabasha no kuba igitabo cy’icyitegererezo ku nkingo z’igihe kizaza no mu kugenzura umutekano w’inkingo.
+
+778. Ubushakashatsi bugezweho bwerekanye ko zimwe mu nkingo ziterwa umugore utwite zimuha ubwirinzi bukomeye we n’umwana utaravuka ku ndwara zikomeye z’ubwandu. Intungamubiri z’umubyeyi ziva mu rukingo zirambuka umwana, zikamuha ubwirinzi mu ntangiriro z’ubuzima mbere y’uko aterwa inkingo ze. Muganga wawe ashobora kukugira inama ku nkingo zikwiye bitewe n’igihe utwite, ibibazo ufite, n’ubuzima bwawe muri rusange, akanagusobanurira ibyiza byazo n’igihe cyiza cyo kuziterwa.
+
+779. Imiterere y’umubiri w’umuntu ituma usubiza neza inkingo nyinshi icyarimwe, nta kuzitirwa cyangwa kubangamira igisubizo cya rumwe mu rukingo. Guterwa inkingo nyinshi rimwe byongera amahirwe yo kurangiza gahunda y’inkingo ku gihe, bikaguha ubwirinzi bwuzuye ku ndwara zishobora kwirindwa. Gahunda z’inkingo za none zikorwa zikanageragezwa mu buryo bwimbitse kugira ngo zizeze umutekano n’ingaruka nziza igihe inkingo nyinshi zitangiwe icyarimwe.
+
+780. Kurira nyuma yo guterwa urukingo mu bana biratandukanye mu bukana n’igihe bimara, ariko akenshi biragabanuka mu masaha 24. Ababyeyi bashobora gufasha abana babo guhumurizwa bakoresheje uburyo butandukanye nko kubayunyuza, kubaha ibiryo bibahumuriza, kubashyira ahantu hatuje, no gukoresha ibintu cyangwa imigenzo basanzwe bamenyereye ibafasha gutuza. Nubwo kurira kwiyongereye akenshi biba bitunguranye kandi bitabangamye, ni ngombwa kwandika ibimenyetso bihariye cyangwa kurira bikabije birenze amasaha 24, ukamenyesha muganga niba bibaye bikabije cyangwa bifite ibindi bimenyetso biteye impungenge.
+
+781. Kwemeza ubushobozi n’amahugurwa by’umuntu utera inkingo ni intambwe ikomeye mu kwizeza umutekano n’ubushobozi bw’urukingo. Abatanga inkingo bagomba kugaragaza ubumenyi bwimbitse ku buryo bwo gufata, kubika, gutegura, no gutanga inkingo mu buryo bukwiye, banakurikiza byimazeyo amabwiriza y’isuku harimo gukaraba intoki no gukoresha ibikoresho bisukuye. Ibigo by’ubuvuzi bigomba kugira uburyo bwo kugenzura neza ibyemezo by’abakozi, gutanga amahugurwa ahoraho, no kugenzura niba amabwiriza y’umutekano akurikizwa kugira ngo bamenyeshe ko serivisi z’inkingo ziri ku rwego rwo hejuru.
+
+782. Inkingo zagize uruhare rukomeye mu kugabanya cyangwa gukuraho indwara nyinshi ziteje akaga zakomeje guteza indwara, ubumuga, n’urupfu ku isi yose. Kugumana igipimo cyo guterwa inkingo cyo hejuru mu baturage ni ingenzi kuko iyo kigabanutse, izo ndwara zishobora kugaruka vuba no gukwirakwira mu bantu batarakingirwa, nk’uko bigaragazwa n’uburwayi bwa vuba bwa rubeole n’izindi ndwara zishobora kwirindwa. Buri muntu ujyana gahunda y’inkingo aba afasha mu kubaka no gusigasira ubwishingizi rusange bw’umuryango bwarinda abatagomba guterwa inkingo kubera imyaka, ibibazo by’ubuzima, cyangwa izindi mpamvu.
+
+783. Kubika inkingo neza ni ingenzi mu kubungabunga ubushobozi n’umutekano wazo, kuko inkingo nyinshi zisaba gukomeza ku bushyuhe runaka bugenzurwa kenshi. Ibikoresho byo kugenzura ubushyuhe bigomba gusuzumwa kenshi buri munsi, kandi niba ubushyuhe butajyanye n’ibisabwa, bigomba guhita byandikwa kandi bikitabwaho vuba kugira ngo inkingo zidapfa ubusa. Abatanga inkingo bagomba gukurikiza amabwiriza akomeye yo kubika no gukoresha inkingo, harimo kwandika ubushyuhe buri gihe, guhinduranya ibicuruzwa by’ibanze, no kugenzura ibibazo byose bihari cyangwa ibyuma byangiritse.
+
+784. Ibyinshi mu bimenyetso bisanzwe by’inkingo nk’ububabare ahaterwa urukingo, umuriro muke, no kumva umwana atishimye ni ibimenyetso bisanzwe byerekana ko umubiri uri kubaka ubwirinzi. Kumenya ibi bimenyetso bisanzwe bigabanya impungenge kandi bigufasha kubitandukanya n’ibibazo bikomeye bisaba ubuvuzi. Buri bwoko bw’urukingo bushobora kugira ibimenyetso bisanzwe bihariye, kandi muganga wawe agomba kubisobanura mbere yo kurutera, bikaba bisanzwe birangira mu minsi mike umubiri urangije gusubiza bwa mbere urukingo.
+
+785. Gusangira amakuru n’umuganga ku bimenyetso bitandukanye nyuma yo guterwa urukingo ni ingenzi mu gukurikirana umutekano w’inkingo. Nubwo ibibazo bikomeye biterwa n’inkingo ari bike cyane, gutangaza hakiri kare ibimenyetso biteye impungenge bifasha abaganga gusuzuma no gutanga ubufasha bukwiye igihe bibaye ngombwa. Ibi bisobanuro byawe binatanga umusanzu mu rwego rusange rwo kugenzura umutekano w’inkingo mu baturage, bikanafasha kumenya ibimenyetso bishya byasaba gukorwaho ubushakashatsi.
+
+786. Kwitegura neza abana mbere yo guterwa urukingo bigabanya impungenge kandi bikagirira neza ubunararibonye bwabo mu guterwa urukingo. Koresha amagambo akwiye bitewe n’imyaka y’umwana usobanura ibizabaho muri urwo rugendo, ugashyira imbere ibyiza byo kwirinda indwara aho gushyira imbaraga mu kuribwa gato bituruka ku rukingo. Abana bakunze kwigana imyitwarire y’ababyeyi babo, bityo kwitwara mu buryo bwitonda kandi bwiza bifasha umwana kumva atuje kandi atuje kuri gahunda yo guterwa urukingo.
+
+787. Nyuma yo guterwa urukingo, abana bakuru n’abangavu bagomba kuguma bicaye cyangwa baryamye mu gihe cy’iminota 15 kugira ngo birinde gukomereka mu gihe bashobora kugwa igihumure. Igihumure gikunze guterwa n’umunaniro uturuka ku mpungenge aho kuba urukingo ubwaryo, ariko igisubizo cy’umubiri gishobora kubaho bitunguranye. Kuguma ahantu hizewe mu gihe cy’ubugenzuzi bifasha abakozi b’ubuvuzi gukurikirana ibindi bimenyetso no kwirinda ko habaho impanuka.
+
+788. Abatanga serivisi z’ubuvuzi bategereje ibibazo birebana n’umutekano n’ingaruka z’inkingo, kuko abarwayi bafite amakuru bahamye bakunze gukurikiza gahunda z’inkingo zateguwe. Tegura urutonde rw’ibibazo cyangwa impungenge ufite mbere yo kujya guterwa urukingo kandi ntugatinye gusaba ibisobanuro birambuye niba hari ibyo utumvise neza. Gusobanukirwa neza uburyo bwo guterwa urukingo, nko kumenya ingaruka zishobora kubaho n’uko uzazifatamo, bigabanya impungenge kandi bikagufasha kwitegura neza.
+
+789. Guha muganga urutonde rwuzuye rw’imiti ukoresha harimo iyo wandikiwe, iyo ugura muri farumasi nta burenganzira, n’inyongera z’imiti, bifasha mu gutanga urukingo mu buryo bwizewe. Hari imiti ishobora guhura nabi n’inkingo cyangwa ikagira ingaruka ku gihe cyo kuyitanga, bityo aya makuru afasha abaganga gutanga inama zikwiye. Kuganira buri gihe ku miti ukoresha kandi bigufasha kumenya niba hari ibyo kwitondera cyangwa ibyo kugenzura mbere yo guterwa urukingo.
+
+790. Kuba warasimbutse doze y’urukingo ntabwo biba ikibazo gikomeye, ariko ni ngombwa kuvugana n’umuganga wawe hakiri kare kugira ngo muganire ku buryo bwo gusimbura dose yasimbutse. Muganga wawe ashobora gukora gahunda yihariye yo gukomeza gahunda y’inkingo, yizewe kandi yubahirije intera zikwiye hagati y’inshuro. Ubwirinzi bw’umubiri burakomeye cyane, kandi mu gihe kinini, ushobora gukomeza gahunda y’inkingo utagiye utangirira ku ntangiriro nubwo igihe gishize.
+
+791. Ingaruka ku mubiri aho urukingo rwinjiriwe ni ibisanzwe kandi birimo ububabare, kubyimba, n'ubutukura busanzwe bukaza mu masaha 24-48 ya mbere. Gushyira agatambaro gakonje kandi gasukuye aho urukingo rwatewe bifasha kugabanya ububabare no kubyimba bitabangamiye igisubizo cy’ubwirinzi. Nubwo gushyira igitutu cyoroshye byemewe, irinde gukanda cyangwa gusiga ahatewe urukingo kuko bishobora gutera uburibwe bwinshi cyangwa gukwirakwiza urukingo mu bice byegereye.
+
+792. Kubaka ubudahangarwa nyuma yo guterwa urukingo ni urugendo rwihuta rufata ibyumweru runaka mu gihe umubiri wawe uri gukora igisubizo cy’urukingo. Muri iki gihe, ni ngombwa gukomeza kwirinda guhura n’indwara kuko uba utaragera ku rwego rwuzuye rw’ubwirinzi. Kumenya iyi gahunda bituma wumva neza igihe urukingo ruzatangira gutanga umusaruro kandi bikagushishikariza kurangiza gahunda y’inkingo zifite doses nyinshi ku gihe.
+
+793. Aho guterera urukingo hatoranywa neza hagendewe ku bwoko bw’urukingo, imyaka y’ukingiwe, n’uburyo bwo kugabanya ingaruka zishoboka no kongera igisubizo cy’ubwirinzi. Aho guterwa hashobora gutandukana iyo inkingo nyinshi zitanzwe icyarimwe kugira ngo ibimenyetso byaho bigenzurwe neza no kugira ngo byinjire neza mu mubiri. Kumenya neza amabwiriza y’abaganga ku hantu hateganyijwe guterwa urukingo bigufasha kuzamura umusaruro w’urukingo no kugabanya ingaruka.
+
+794. Gukurikirana ubuzima n’imikurire y’umwana wawe nyuma yo guterwa urukingo bifasha kumenya imyitwarire isanzwe no kubona byoroshye impinduka ziteye impungenge. Jya wandika uko umwana wawe asanzwe yitwara, asinzira, n’uko arya kugira ngo bigufashe kugereranya nyuma yo guterwa urukingo. Nubwo inkingo zigenzurwa neza mu mutekano, kumenya imyitwarire isanzwe y’umwana wawe bigufasha gutahura no gutangariza abaganga ibimenyetso byose bidasanzwe hakiri kare.
+
+795. Abajyanama b'ubuzima bakora nk'ihuriro rikomeye hagati y'ibigo nderabuzima n’imiryango y'aho batuye, batanga ubumenyi bw'ingirakamaro n'ubufasha mu bigendanye n'ibikorwa byo gukingira. Bahugurwa kugira ngo babashe gusobanura neza ibyiza byo gukingirwa mu buryo buhuye n'umuco, bakemure impungenge z'abaturage kandi bafashe imiryango gukuraho inzitizi zo kugera ku kingira. Ubushobozi bwabo bwo kumenya imiterere y’imiryango yabo bibafasha kubaka icyizere no kugeza amakuru nyayo ku bantu bose, cyane cyane abafite imbogamizi zo kugera ku makuru y’ubuzima.
+
+796. Kujya mu ngendo mpuzamahanga bisaba kubona inkingo zihariye bitewe n’aho ugana, kandi ibi bigomba gutegurwa hakiri kare. Hari inkingo zifatirwa mu byiciro mu gihe cy’amezi menshi, mu gihe izindi zisabwa gukingirwa byibura icyumweru cyangwa bibiri mbere y’urugendo kugira ngo habeho ubwirinzi buhagije. Ugomba kugisha inama inzobere mu buzima bw'abagenzi kugira ngo agufashe gusuzuma amateka y’inkingo zawe, asuzume ibyago by'urugendo rwawe, kandi atange inama ku nkingo zikwiriye bitewe n'urugendo rwawe n’ubuzima bwawe.
+
+797. Uburyo inkingo zateguwe buteye imbere butuma zibasha kwigisha ubudahangarwa bw’umubiri wawe kumenya no kurwanya udukoko dutera indwara nta kubanza guhura na yo. Ubu buryo butuma umubiri ugira ubushobozi bwo kwibuka no kugenzura neza igihe wahura n’udukoko tw’indwara nyirizina mu gihe kizaza. Gusobanukirwa n’iri hame bifasha gutahura impamvu ibimenyetso bito nyuma yo gukingirwa ari ikimenyetso cyiza cy’uko umubiri uri kwiyubaka ubwirinzi.
+
+798. Gutegura urutonde rw’amakuru y’ibanze y'ibikorwa by'ubutabazi bigomba kujyamo nimero y'ibitaro, uburyo bwo kubahamagara nyuma y’amasaha y’akazi, n’inzego z’ubutabazi zihariye. Izi nimero zibikwe ahantu hatandukanye muri telefoni, iwanyu ku rugo, kandi zisangizwe n’abagize umuryango cyangwa ababafasha mu buzima bwa buri munsi. Kuba ufite gahunda isobanutse kandi ukamenya neza abo uhamagara igihe bibaye ngombwa bigabanya impungenge kandi bigatuma habaho igikorwa cyihuse.
+
+800. Gahunda z'inkingo zigizwe n'ibice byinshi ziba zarateguwe neza kugira ngo zitange kandi zubake ubwirinzi bwuzuye bw'umubiri ku ndwara runaka. Dose zikurikiraho zongera imbaraga n’ubwirinzi bw’umubiri, bigatuma habaho kurinda kurambye kandi gukomeye. Gukurikiza igihe cyagenwe hagati y’iminsi yo gufata dose ni ingenzi cyane kuko igihe kiba cyarashyizweho kugira ngo kirusheho gutuma ubwirinzi bw’umubiri buba bwuzuye kandi bigende neza.
+
+Isuku y’intoki mbere na nyuma yo gufata udupapuro twafashwe ku ruhande rukingiwe ni ingenzi mu gukumira ikwirakwizwa ry’umwanda cyangwa izindi mikorobe. Koresha amazi meza n’isabune cyangwa umuti wica udukoko bushingiye kuri alukolo, kandi ibiganza bibe byumutse neza mbere yo gukoraho ahakingiwe cyangwa udupapuro twakoreshejwe. Kurinda isuku kugeza aho urushinge rwakingiwe rukize neza bifasha gukumira ibyago by'kwandura.
+
+Ahakingirwa hagomba kuba hasukuye kandi hateye neza, bigaragaza uburyo bw’umwuga mu buvuzi no gukurikiza amabwiriza y’umutekano. Abatanga serivisi bagomba kugira ibice bitandukanye byo gutegura inkingo, kuzitera, no gucunga imyanda y’ubuvuzi. Ahantu hateye neza bituma abatanga serivisi bakora neza, bagakurikiza ingamba zo kugenzura ubwandu kandi bagashyira imbere umutekano w’abarwayi.
+
+Iminsi yo gutegura inkingo itegurwa hashingiwe ku bushakashatsi bwimbitse ku gihe cyiza cy’umubiri wo kwikingira no gukumira indwara. Ibi bitekerezwa hifashishijwe ibyago bishingiye ku myaka, iterambere ry’ubudahangarwa, n’ubushobozi bwo guhura n’indwara. Umujyanama wawe mu buzima ashobora gusobanura ibyerekeranye n’ibikorwa by’inkingo buri kimwe, akagufasha gutegura gahunda igufasha kugira ubwirinzi bwuzuye.
+
+Nyuma yo gukingirwa, aho urushinge rwatewe rukeneye umwanya wo gukira nta bujyanama cyangwa kwivanga. Gutera ingufu cyangwa gukorakora ahakingiwe bishobora gutera ukwangirika cyangwa guteza ikibazo ku buryo umubiri wakiriye inkingo. Bika ahakingiwe hasukuye kandi humutse, wirinda gushyiraho ibindi bintu cyangwa gukoresha imiti keretse ari inama y’umujyanama w’ubuzima.
+
+Inkingo zimwe, nko ku ndwara ya rubewole cyangwa hepatite B, zitanga ubwirinzi burambye nyuma yo kurangiza dose zisabwa, mu gihe izindi nko ku ndwara ya tetenusi cyangwa giripe zisaba gutera dose zongera ubwirinzi nyuma y’igihe runaka. Umujyanama w’ubuzima akurikirana amateka y’inkingira zawe kandi ashobora kugusaba igihe gikwiye cyo kongera izindi dose. Gusesengura neza gahunda y’inkingira bigufasha gukomeza kugira ubwirinzi buhoraho ku ndwara zikingirwa.
+
+Kujyana ibintu bihumuriza abana mu gihe cyo gukingirwa bishobora kugabanya impungenge no gutuma babona uburambe bwiza. Ibi bintu birimo ibikinisho bakunda, ibitabo, cyangwa udutambaro tubafasha kumva batekanye no kwirengagiza ubwoba mu gihe cyo gukingirwa. Tegereza imyitozo yo kubahumuriza mu rugo mbere y’umunsi wo gukingirwa kugira ngo umwana yumve yiteguye kandi afite icyizere.
+
+Inkingo nyinshi zikoreshwa mu gihe cyo konsa ziba zitabujijwe kandi zitanga uburinzi bukomeye ku mubyeyi n’umwana. Ibyitwa "antibody" umubyeyi agira nyuma yo gukingirwa bishobora guca mu mashereka, bigaha umwana ubwirinzi bw’inyongera. Gusobanurira muganga ko uri konsa bituma bagufasha guhitamo inkingo zikwiriye kandi bakagena igihe kiza cyo kuzifata.
+
+Gahunda y’umuryango y’inkingo ikwiye kuba ifite amakuru arambuye kuri buri muntu wo mu muryango, harimo ubwoko bw’inkingo, itariki zafatiweho, imibare yazo (lot numbers), n’ibyabaye nyuma yo kuzifata. Izi nyandiko ziboneka cyane iyo uhinduye muganga, ugiye mu rugendo cyangwa ujya mu ishuri n’abana. Kuvugurura no gusuzuma izi nyandiko kenshi bifasha buri wese kugumana gahunda nziza y’inkingo ziteganywa.
+
+Abatanga serivisi z’ubuzima basabwa kugenzura itariki y’inkingo zarengeje igihe ndetse no kureba isura y’udukingirizo mbere yo kuzitanga kugira ngo harebwe ubuziranenge n’umutekano. Ibi bikubiyemo kugenzura ibimenyetso byo ku dupaki no kureba ko ububiko bwazo bwitaweho neza. Abarwayi bagomba kugira uburenganzira bwo kubaza ku igenzura ryakozwe no kumenya agaciro karyo mu kwirinda ko inkingo zibura ingufu.
+
+Kuba hariho kubyimba ku ruhande rwatewe urushinge ni ibisanzwe nyuma yo gukingirwa, ariko ugomba kugenzura neza aho hantu. Fata ingero zaho hibimbye, ukamenya niba bitambutse ku gice cy’akaguru cyangwa ibindi bice by’akaboko. Iyo kubyimba bijyana n’ububabare bukabije cyangwa ibimenyetso bikomeye, uhamagare muganga ako kanya kugira ngo bamenye uko bagufasha.
+
+Ububiko bw’inkingo bugomba gukurikiza uburyo bwihariye bwo kugenzura ubushyuhe kugira ngo zigume zifite ubuziranenge, buri bwoko bw’inkingo bukaba bufite ibisabwa byihariye. Abatanga serivisi z’ubuzima bakoresha ibyuma bibika neza ubushyuhe bifite uburyo bwo kugenzura umunsi ku wundi hamwe n'ubushobozi bwo gukora igihe umuriro wabuze. Iyo inkingo zigomba gutwarwa, abaganga baguha amabwiriza y'ukuntu zaguma mu bushyuhe bwiza mu gihe ziri mu rugendo.
+
+Gutegura inyandiko y’ibimenyetso bidasanzwe nyuma yo gukingirwa bifasha abaganga gusuzuma ibibazo byashobora kuvuka no kumenya uko babikemura. Izi nyandiko zigomba kujyamo igihe ibimenyetso byatangiriye, imbaraga zabyo, uburyo byagiye bihinduka n'uko byakemuwe. Guhorana aya makuru birafasha mu gufata ibyemezo mu gihe kirambye no gutegura inkingo zikurikira.
+
+Iterambere mu gukingira ryatumye indwara nyinshi zigeze kuba zugarije isi zigabanuka cyangwa zikaburirwa irengero, aho zatezaga uburwayi bukomeye, ubumuga cyangwa urupfu. Nubwo hari ibimenyetso bito nyuma yo gukingirwa, ibi akenshi biroroha kandi birangira vuba. Kumva inyungu nini zo gukumira indwara ugereranyije n'ibyago bike byo gukingirwa bifasha gufata ibyemezo bifite ishingiro bijyanye no kwikingira.
+
+Buri bwoko bw’inkingo butanga ubwoko butandukanye bw’igisubizo cy’umubiri n'ingaruka zishobora kuvuka hashingiwe ku miterere yazo n’uburyo bukorwamo. Abaganga bagomba kuganira n’abarwayi ku bisubizo bishoboka buri gihe mbere yo gutanga inkingo. Gusobanukirwa n’ibyo ushobora kwitegura bifasha kugabanya impungenge kandi bikagufasha kumenya no kwitaho ibimenyetso byakurikira.
+
+Kugira urutonde rugaragara rw’imibare y’abatanganga ubutabazi bwihuse ni ingenzi. Rujyamo nimero y’ibitaro, uburyo bwo kubavugisha nyuma y’amasaha y’akazi, hamwe n’indi mibare y’inzego z’umutekano. Izi nimero zibikwe ahantu hagerwaho n'abagize umuryango cyangwa ababitaho, bituma hari icyizere cyo kumenya aho wahera mu gihe habaye ikibazo.
+
+Inzira yo gukora no kwemeza inkingo igizwe n’ibice byinshi byo gusuzuma mu byiciro binyuranye no kugenzura umutekano mbere y’uko inkingo zemerwa gutangwa ku baturage. Nyuma yo kwemezwa, uburyo bwo gukurikirana inkingo ku gipimo cyagutse bukomeza kugira ngo harebwe niba nta kibazo cy’umutekano cyagaragara. Ibi bituma habaho ibyemezo bihutirwa bigamije kurinda abaturage mu gihe bigaragaye ko inkingo hari ibyo zibura.
+
+Gutegura inkingo z'ingaruka zijyanye n'ingendo mpuzamahanga bisaba igihe gihagije ngo ubwirinzi bube bwuzuye mbere yo kujya mu rugendo. Inkingo zitandukanye zisaba igihe kinini kugirango zitangire gukora, kandi izindi zishobora gusaba ibindi byiciro byinshi bitangwa mu mezi cyangwa ibyumweru byinshi. Teganya gahunda ya muganga byibuze amezi abiri mbere y’urugendo rwawe kugira ngo ube wabonye inkingo zose zikwiriye kandi ubwirinzi bw’umubiri bukomere.
+
+Ahantu hakingirwa hose hagomba kugira ibikoresho by'ubutabazi bwihuse, birimo epinephrine, imiti igabanya imihangayiko, n’ibindi bikoresho byihutirwa. Abatanga serivisi z’ubuzima bahugurwa kenshi mu kumenya no gukemura ibibazo bishobora kuvuka bijyanye no gukingirwa, harimo gutanga imiti y’ubutabazi mu buryo bukwiye. Kugenzura kenshi no kuvugurura ibikoresho by’ubutabazi bwihutirwa bifasha kugira ngo bihorane ubushobozi bwo gukoreshwa igihe bibaye ngombwa.
+
+Buri nkingo igomba gutangwa hakoreshejwe urushinge rwayo n’akuma gafite isuku, hagamijwe kubika ingano ikwiye y’ikingo no kwirinda kwanduza inkingo zindi. Kuvanga inkingo zitaravangirwa n'ababikoze bishobora kugabanya ingufu n’umutekano wazo. Abatanga serivisi bagendera ku mabwiriza akomeye yo gutegura no gutanga inkingo kugira ngo zirinde ingufu zayo n’icyo zigenewe.
+
+Kubika neza amakuru yerekeranye n’inkingo harimo kwandika itariki, igihe, aho urushinge rwatewe, n’ibyavuzwe ku nkingo zatewe. Iyi nyandiko ifasha abaganga kugenzura neza intera hagati y'ibyiciro by'inkingo no kureba niba hari icyo bishobora gutera ku gice cy’akaboko cyangwa ahandi hatanzwe urushinge. Ibi kandi bifasha kumenya ingaruka zishobora kugaragara no gukomeza gukurikirana imikorere y’inkingo mu gihe kirekire.
+
+Iminsi ibiri ya mbere nyuma yo gukingirwa ni ingenzi cyane mu gukurikirana uburyo abana bitwara ku nkingo bahawe. Ababyeyi bagomba kwitondera imihindagurikire y’umubiri w’umwana nk’ubushyuhe, imyitwarire, uburyo bwo kurya, ndetse n'aho urushinge rwatewe. Mu gihe ibikorwa bisanzwe by’umuryango bigenda neza, andika ibimenyetso byose bikomeye ubone cyangwa se bitandukanye kandi uhamagare muganga mu gihe bikabije cyangwa biteye inkeke.
+
+Abatanga serivisi z’ubuzima bafite uburyo bwinshi bwo kugenzura niba inkingo zarengeje igihe, harimo no kubigenzura igihe zibonwa mu bubiko, mu kubika, ndetse mbere yo kuzitanga. Inkingo zarengeje igihe zishobora kugabanya ubudahangarwa bw’umubiri kuko ziba zabayeho impinduka zishobora gutuma zidatanga umusaruro witezwe. Igenzura rigikorwa kenshi mu bubiko bw’inkingo rifasha gukuraho izarengeje igihe no kuzitwara mu buryo bwemewe n’amategeko.
+
+Iyo umuntu agize uduheri cyangwa ururenda nyuma yo gukingirwa, kugenzura no kwandika neza amakuru bifasha abaganga kumenya niba ibyo ari ibisanzwe cyangwa se niba bikeneye iperereza ryimbitse. Fata amafoto afatika y'uduhinduka, urebe igihe byatangiriye, ndetse ukurikirane imihindagurikire yabyo mu minsi ikurikiraho. Andika ibindi bimenyetso nk'umuriro, kubabara cyangwa ibindi bishobora gufasha muganga gufata ibyemezo bihamye byo gukomeza gukurikirana.
+
+Buri bwoko bw’inkingo bufite uburyo bwihariye bwo gutangwa, bugendana n'ibisabwa mu mikorere yazo. Abatanga serivisi z’ubuzima bahabwa imyitozo irambuye mu buryo bwo gutanga inkingo, harimo guhitamo urushinge rukwiye, gukoresha aho bikwiye gutangirwa (injiza cyangwa impinduka mu mitsi), ndetse no gutegura aho urushinge ruzajya. Isuzuma rihoraho ry’ubushobozi bw’abatanga inkingo rifasha kubahiriza uburyo bwo gutanga inkingo mu buryo bunoze kandi butekanye.
+
+Gukora kopi nyinshi z’amadosiye y’inkingo ni ingenzi cyane kugira ngo wirinde ko amakuru y’inkingo yatakara cyangwa yangirika. Bikira kopi z’amadosiye ku bundi buryo, urugero muri imeyiri yikizewe, ibitabo byanditse ukabitse neza, cyangwa se amafoto afashwe neza y’ibyangombwa byose by’inkingo. Sangira aya makuru na muganga wawe w’ibanze kandi ushake uburyo bwo kuvugurura izi kopi igihe cyose utwaye izindi nkingo.
+
+Amategeko y’inkingo mu mashuri agenewe kurinda abanyeshuri ku giti cyabo n’umuryango mugari w’ishuri indwara zishobora gukingirwa. Buri leta cyangwa akarere bishobora kugira ibisabwa byihariye bijyanye no gukingira abana mbere yo kwinjira mu mashuri, harimo n’amatariki ntarengwa n’ibyangombwa byemewe. Kugirana ibiganiro n’abaforomo b’ishuri kenshi bituma wubahiriza ibisabwa no kubona amakuru ahuye n’amabwiriza mashya y’inkingo zitegetswe.
+
+Abantu bakuru bagenda bahindurirwa ibikenewe mu nkingo bitewe n’imyaka, indwara bafite, imirimo bakora, n’imibereho yabo muri rusange. Guhora usuzuma uko umuntu mukuru ahagaze ku bijyanye n’inkingo bifasha kumenya niba hari izindi nkingo cyangwa dosiye zo kongera guhabwa. Abaganga bashobora kugena gahunda yihariye y’inkingo z’abakuze hashingiwe ku bihariye nk’imigambi yo gukora ingendo, ibyago bahura na byo, cyangwa amateka y’inkingo bahawe mbere.
+
+Gutwita bikenera kwitondera igihe n’ubwoko bw’inkingo kugira ngo ubuzima bw’umubyeyi n’ubw’umwana batwite burindwe neza. Hari inkingo zashyizweho by’umwihariko zigenewe gutangwa mu gihe cyo gutwita kuko zirinda indwara zikomeye cyane. Abaganga bafata umwanzuro hashingiwe ku bihe by’inda, ibyago runaka, n’igihe cy’umwaka.
+
+Abakozi bo mu rwego rw’ubuzima bahura n’icyago cyo kwandura indwara nyinshi kandi bashobora kuzirukiriza abarwayi bafite intege nke. Gahunda z’itegeko zo gukingira abakozi b’ubuzima zigamije gutanga umutekano muri serivisi z’ubuvuzi, ku barwayi n’abakozi ubwabo. Guhora usuzuma ibyo abakozi b’ubuzima bakeneye gukingirwa bikorwa hagendewe ku byago by’indwara bihari n’amabwiriza y’ubuzima rusange.
+
+Kugorora ukuboko bikabije nyuma yo guterwa urushinge bishobora kongera igipimo cy’amaraso ku murongo w’urushinge, bigatuma rimwe na rimwe imiti idakora neza cyangwa kongera ububabare. Banza ugabanye ibikorwa bikoresha ukuboko kwatewe urushinge mu masaha make akurikiyeho kugira ngo bitabangamira uburyo ubudahangarwa bw’umubiri bukorwa. Imyitozo yoroheje irakwiye ariko wirinde guterura ibintu biremereye cyangwa gukora imirimo iremereye kugeza bukeye.
+
+Ubugenzuzi bwiza bw’inkingo bukorwa mu byiciro byinshi kuva zikozwe kugeza zitanzwe. Reba neza niba icupa ry’urukingo rifite ibara risanzwe, nta bisigara cyangwa ibirahure bidasanzwe biri imbere. Ibibazo byose byerekeye ubuziranenge bw’urukingo bigomba guhita bitangazwa ku nzego zibishinzwe, hakubiyemo no kwandika neza umubare w’icupa n’ikibazo cyose cyagaragaye.
+
+Kwita ku buryo aho urukingo ruterwa hasa mu masaha 24 ya mbere bituma handura kandi hakira neza. Irinde gukoresha ibikoresho bidakenewe cyangwa udutambaro, keretse muganga ari we ubyemeje. Kugenzura uko hakira bisanzwe kandi ukabwira muganga mu gihe ubona impinduka zitari zisanzwe birakenewe.
+
+Kunanirwa nyuma yo gukingirwa ni igisubizo gisanzwe cy’ubwirinzi bw’umubiri kigenda kiza nyuma y’iminsi mike. Teganya ibikorwa byawe kugira ngo ube ufite umwanya wo kuruhuka no kongera imbaraga, cyane cyane iyo wahawe inkingo nyinshi icyarimwe. Komeza kunywa amazi menshi kandi uruhuke neza kugira ngo umubiri wawe ukomeze kugira ubudahangarwa.
+
+Gahunda y’ubutabazi bwihuse aho inkingo zitangirwa igomba kugira amabwiriza asobanutse yerekeye uburyo bwo gutahura no kwita ku mpanuka zishobora kuba. Abakozi bose bagomba guhabwa amahugurwa ahoraho yerekeye iyi myitwarire y'ubutabazi kandi buri wese amenye inshingano ze mu gihe cy'ibyago. Gukora imyitozo y’ubutabazi kenshi no kuvugurura amabwiriza y'ubutabazi bifasha kugira igisubizo cyihuse kandi gikwiye.
+
+Umuriro mwinshi ushobora gutuma ubudahangarwa ku rukingo butagenda neza kandi bigatuma bigorana gutandukanya ingaruka z’urukingo n’ibimenyetso by’uburwayi. Ganira n’umuganga wawe niba urwaye kugira ngo umenye niba hari impamvu yo gusubika urukingo kugeza wakize. Nubwo indwara zoroheje zidashobora kubangamira gukingirwa, umuriro mwinshi ushobora kwerekana ko ari ngombwa gutegereza.
+
+Kwandika neza nimero z’icupa ry’urukingo bitanga amakuru y’ingenzi mu kugenzura umutekano w’inkingo no mu gihe cy’ikurwaho ry’inkingo zifite ibibazo. Ibyo byangombwa bifasha gukurikirana amatsinda runaka y’inkingo no gutahura ingaruka zitari zisanzwe. Bika neza ibi byangombwa mu mateka yawe y’inkingo kandi wemeze ko biri no mu nyandiko z’umuganga wawe.
+
+Ubudahangarwa bw’umubiri bushobora kwitwara neza ku nkingo nyinshi zifatwa icyarimwe bitabaye ngombwa ko ugira icyo ugabanya. Uburyo bwo gukingira icyarimwe bugabanya igihe byo gukingirwa bitwara kandi bigatanga ubwirinzi bwihuse ku ndwara nyinshi. Gahunda z’inkingo zigezweho zakozwe kandi zigeragezwa neza kugira ngo umutekano n’ubushobozi bw’inkingo zifatwa icyarimwe byemezwe.
+
+Kwiyumva umeze nk’ugiye gutakaza ubwenge nyuma yo guterwa urukingo (vasovagal response) ni igisubizo gishingiye ku mpagarara, cyane cyane mu rubyiruko. Niba wumva urimo kumererwa nabi cyangwa kugenda w’umunaniro, irambike, uzamure ibirenge hejuru y’urwego rw’umutima kugira ngo amaraso agere neza mu bwonko. Amenyesha itsinda ry’abaganga niba ufite amateka y’ihungabana n’ubwoba mu gihe uhabwa imiti, kugira ngo bafate ingamba zirimo gutera urukingo uri wicaye cyangwa wicaye hasi.
+
+Ubukonje buba mu nzu cyangwa ahanyura inkingo ni uburyo bw’ingirakamaro bwo kugumana ubwiza bw’inkingo kuva zikorwa kugeza zitanzwe. Inkingo zigomba kubikwa ku bushyuhe bwihariye (akenshi hagati ya 2°C na 8°C), kandi kugoreka ubu bushyuhe bishobora gutuma urukingo rutakaza ubushobozi. Kugenzura buri gihe, kwita ku bikoresho bikonjesha, no guhugura abakozi ni ingenzi mu kugumana umutekano w’inkingo.
+
+Amakuru yihariye y’inkingo (VIS) atanga ibisobanuro by’ingenzi ku nyungu n’ingorane z’urukingo, harimo ingaruka zishobora kuba ndetse n’ibimenyetso byo kwitondera. Abaganga bagomba gusobanurira neza abarwayi cyangwa ababitaho ibi byangombwa mbere yo gutanga urukingo, bagaha n’umwanya wo kubaza ibibazo. Gusobanukirwa aya makuru bituma abakingirwa bafata ibyemezo bishingiye ku byizewe kandi bakamenya ibyo bitegereza nyuma yo gukingirwa.
+
+Icyegeranyo cya buri ngaruka mbi, nubwo yaba idakomeye, gitanga amakuru akomeye mu igenzura ry’umutekano w’inkingo. Ibi byegeranyo bifasha gutahura ingaruka zishobora kuzamuka cyangwa ibimenyetso bishya by’ubuzima bishobora kuba byaratambutse mu igeragezwa rito ry’inkingo. Gutanga raporo y’ingaruka ni ugufasha kunoza umutekano w’inkingo ku isi yose.
+
+Abana bafite uburwayi bw’igihe kirekire bashobora kugira ibyihariye byihariye by’inkingo kubera uko ubuzima bwabo bwifashe. Uburyo umubiri wabo witwara ku nkingo, imiti bakoresha, n’uko uburwayi bwabo buhagaze byose byitabwaho mu kugena igihe cyo gukingirwa. Abaganga bategura gahunda zihariye zibafasha kugerwaho n’ubwirinzi mu buryo bukwiye.
+
+Umuyaga uhagije mu bice by’aho inkingo zitangirwa ugira akamaro kanini kurenza guhumeka neza gusa. Umwuka mwiza ugabanya kuba abantu batakaza ubwenge kubera igihunga giterwa n’ubushyuhe bwinshi cyangwa guhumeka nabi. Sisitemu z’ivugururwa ry’umwuka zigomba gusuzumwa no gufatirwa ingamba zo kubungabunga ubuziranenge.
+
+Kwandura ahaterwa urukingo birasanzwe cyane ariko igihe bibaye bikenera kwitabwaho vuba. Reba niba hari ibimenyetso birimo akadomo k’umutuku kagenda gafata ahagutse, ubushyuhe budasanzwe, kubyimba cyangwa ibyo byohoka. Fata amafoto cyangwa upime ibyo bimenyetso maze ushake ubufasha bwihuse bw’abaganga kuko kwitabira kare bituma nta ngaruka zikomeye ziba.
+
+Iyo utanga inkingo nyinshi mu gihe kimwe, gukoresha ahantu hatandukanye ku mubiri bifasha kugenzura buri rukingo ukwako ndetse bikemeza ko rukora neza. Ahaterwa buri rukingo hagomba kwandikwa neza kandi hashyirwe intera nibura ya santimetero imwe hagati y’urukingo n’urundi. Ubu buryo bufasha kandi kugenzura neza niba hari ingaruka ziba aho bateye urukingo.
+
+Kwemeza neza uwo bagiye gukingira ni icyiciro cy’ingenzi cyane mu kwirinda amakosa. Abakozi bo mu buzima bagomba kugenzura izina, itariki y’amavuko, n’ibindi bimenyetso bifatika ugereranyije n’inkingo umuntu agomba guhabwa. Ubu buryo buteguwe neza bubuza amakosa kandi bukemeza ko inyandiko zifite ukuri ku byakozwe.
+
+Imiti icisha amaraso irashobora kongera ibyago byo kuva cyangwa kubyimba ahaterwa urukingo. Abaganga bashobora gukoresha inshinge ntoya, gukoresha igihe kinini cyo gukanda ahatewe urukingo, cyangwa bagakoresha uburyo butandukanye bwo guteramo urushinge kugira ngo bagabanye ibyo byago. Guhora witegereza aho bateye urukingo ni ingenzi ku barwaye indwara z’amaraso.
+
+Nimero z’abakenewe guhamagarwa mu buryo bwihutirwa aho inkingo zitangirwa zigomba gukubiyemo serivisi z’ubutabazi bwihutirwa, ubutabazi bw’umuti, ndetse n’inzego z’ubuzima zirebwa n’ikibazo. Aya manomero agomba gutegurwa neza, agashyirwa ahantu hose hagezweho kandi agasuzumwa kenshi kugira ngo ukomeze kwizera ko ari ukuri. Abakozi bagomba gukora imyitozo yo guhamagara kugira ngo bakore ibyo bashinzwe neza mu gihe cy’ibyago.
+
+Kubika neza inyandiko z’inkingo ni ingenzi mu kubungabunga amateka y’ikingira. Bika amakarita y’inkingo mu bikoresho birinda amazi, byashyizwe hamwe n’ibindi byangombwa by’ubuzima by’ingenzi. Korera kopi muri mudasobwa cyangwa ububiko bw’ikoranabuhanga ku buryo byoroshye kubibona igihe bikenewe.
+
+Kuvanga inkingo bisaba kwitonda neza no kubahiriza igihe. Abaganga bagomba gukoresha gusa ibisabizo (diluent) byatanzwe n’uruganda rwakoze urukingo kandi bagakurikiza uburyo bwo kuvanga. Igihe cyo kuvanga kigomba kwandikwa neza ku icupa, kandi inkingo zavanzwe ariko ntizikoreshe zigomba kujugunywa mu gihe uruganda rwategetse.
+
+Kuva amaraso ahaterwa urukingo birasanzwe ariko bikwiye gukurikiranwa, cyane cyane ku barwaye indwara z’amaraso cyangwa bafata imiti iyacisha. Nubwo kuboneka akadomo k’amaraso ku gitambaro ari ibisanzwe, kuva cyane cyangwa igihe kirekire bisaba guhita usuzumwa. Muganga agomba gutanga amabwiriza ajyanye n’uburemere ubwo ikibazo kigomba kwitabwaho.
+
+Impinduka z’ubudahangarwa ku bantu bakuze zisaba uburyo bwihariye bwo gukingirwa cyangwa gahunda ziteguye ku buryo bwihariye. Inkingo zikozwe mu buryo bukomeye cyangwa zashyizwemo ibindi bigomba kongera ubudahangarwa zishobora kuba ari ngombwa ku bantu bakuze. Abaganga bagomba kugenzura ibibazo by’ubuzima byihariye no gusuzuma amateka y’inkingo bahawe mbere.
+
+Kugenzura umuriro nyuma yo gukingirwa bifasha gutandukanya ibimenyetso bisanzwe by’urukingo n’ibishobora kuba ibibazo. Koresha termometre yizewe kandi wandike ubushyuhe, igihe cyafashwe, n’ibimenyetso byabayeho. Shyiraho dosiye y’ubushyuhe izashyikirizwa abaganga igihe habayeho impungenge.
+
+Inyandiko z’urukingo z’umuntu ku giti cye zigomba guhora zikingiwe, ntizigomba gusangirwa n’abandi barwayi. Buri muntu agomba kugira inyandiko zuzuye kandi zizewe z’amateka ye y’inkingo kugira ngo yitabweho neza kandi bigaragazwe mu nyandiko. Bikore ku ibanga kandi bigasangirwa gusa n’abaganga cyangwa inzego zemewe.
+
+Sisitemu z’amashanyarazi z’abasimbura mu kubika inkingo ni ingenzi kugira ngo ubushyuhe bube bwiza mu gihe amashanyarazi yabura. Ibigo by’ubuzima bigomba kugira ingufu z’ububiko bw’ako kanya n’imigambi y’igihe kirekire mu gihe amashanyarazi yabura igihe kirekire. Gusuzuma kenshi izo sisitemu byemeza ko zizakora neza igihe zikenewe.
+
+
+Gutegura gahunda yo gukingira mu masaha y’akazi bisigura kubona ubufasha bwuzuye bw’ubuvuzi igihe bukenewe. Harimo kuba abakozi bahagije bashobora kugenzura ibimenyetso nyuma yo gukingirwa no guhangana n’ibihe byihutirwa byavuka. Guhabwa amakuru y’imirongo yihutirwa yo ku masaha yo hanze y’akazi nabyo birakenewe.
+
+Imvune z’imijugujugu zisaba kwitabwaho ako kanya no gukurikiza uburyo bwo kubika amakuru ngo hagaragazwe uburyo bwo kurinda abakozi b’ubuzima n’abarwayi. Ibigo by’ubuzima bigomba kugira inzira zisobanutse zo kwita ku bikomere, kwandika ibyabaye, no kugenzura uko ubuvuzi bukurikiraho. Amahugurwa ahoraho ku buryo bwo gutera inshinge neza bifasha kubikumira.
+
+Ahantu hatandukanye hateganijwe gukingira hafasha kugenzura neza abarwayi nyuma yo guhabwa inkingo kandi hubahirizwa ibanga n’isuku. Aho hantu hagomba kuba harimo ibikoresho bihagije by’ubuvuzi n’ibikoresho by’ubutabazi bwihutirwa. Kugenzura uko abaza bakirwa bifasha gutunganya neza gahunda kugira ngo irusheho kugenda neza no kuba umutekano.
+
+Aleriji zituruka kuri latex zishobora kuba zoroheje cyangwa zikomeye, bityo kugenzura mbere yo gukingira ni ingenzi. Abatanga serivisi z’ubuzima bagomba kugira ibikoresho bidafite latex no gushira ibimenyetso ku bikoresho birimo latex kugira ngo birindwe gutera ibibazo. Ibikoresho bisimbura bigomba kuboneka neza ku barwayi bazwiho iyo alergi.
+
+Gushyira mu nyandiko amakuru arambuye y’ibibazo byavutse kubera inkingo byafashije abaganga gufata ibyemezo bikwiye ku zindi nkingo zizakurikiraho. Harimo ubwoko bw’ikibazo, igihe cyabereye, ubukana bwacyo, n’ingamba zakurikiwe. Aya mateka afasha kugena uburyo bwo kwirinda ku nkingo zizakurikiraho.
+
+Ahantu hatandukanye hateganirijwe kubikamo inkingo zitandukanye bituma hadakorwa amakosa mu gutanga inkingo no kubungabunga ubushyuhe bwazo. Gushyira ibimenyetso bisobanutse no gutunganya uburyo bwo kubika bifasha abakozi kubona byihuse urukingo bakeneye, bikagabanya igihe bifata gufungura ahabikwa. Kugenzura ububiko kenshi byemeza ko ibiri mu bubiko bikomeza kuba bikwiranye.
+
+Kugenzura neza ibyo umuntu atakwihanganira birimo gusuzuma amateka y’ubuzima, imiti afata muri icyo gihe, n’ibibazo yahuye nabyo kubera inkingo zabanje. Abatanga serivisi z’ubuzima bagomba gukoresha impapuro z’ibibazo zisanzwe no kuganira n’abarwayi ku mpungenge zabo. Iyi nzira yitonze ifasha gukumira ibibazo bishobora guterwa n’inkingo.
+
+Abantu bafite ubudahangarwa bw’umubiri budahagije bakeneye gahunda zo gukingirwa zateguwe neza hashingiwe ku buzima bwabo n’uburyo bavurwa. Hari inkingo zimwe na zimwe zishobora gusubikwa cyangwa kwirindwa, mu gihe izindi zaba ingenzi cyane mu kubarinda. Guhuzanya hagati y’abahanga mu buvuzi n’abaganga bita ku buzima bwabo byemeza ko gahunda yo gukingirwa ibera neza kandi ku mutekano.
+
+Epinephrine y’ubutabazi bwihutirwa igomba kuboneka aho gukingira hose, hamwe n’amabwiriza asobanutse ku buryo ikoreshwa. Abakozi bagomba guhabwa amahugurwa ahoraho ku kumenya anafilaksi no gutanga epinephrine. Kugenzura kenshi ububiko bwa epinephrine byemeza ko itarangije igihe cyangwa ngo ibikwe nabi.
+
+Gufata ubushyuhe bw’ibikoresho bibikwamo inkingo kabiri ku munsi bitanga amakuru akenewe ku buryo ubushyuhe bugumana neza. Abakozi bagomba kwandika ubushyuhe mu bihe bimwe buri munsi bakoresheje ibikoresho bipimisha neza. Ibibazo byose by’ubushyuhe bigomba guhita bikemurwa kandi byandikwa ingamba zafashwe.
+
+Gushyira mu nyandiko igihe cyo kuvanga inkingo bituma zikoreshwa mu gihe cyazo cyiza. Abakozi bagomba kwandika igihe yavanzwe n’igihe itagomba kurenza. Sisitemu yo gukurikirana inkingo zavanzwe nyinshi mu gihe hakingirwa abantu benshi igomba kuba iriho.
+
+Gutegura neza aho gukingira bisaba gutandukanya ahantu hasukuye n’ahatakarijwe isuku. Koresha inzira imwe mu gucunga abantu kugira ngo hatabaho kwanduzanya, hateganijwe aho kuvanga inkingo n’aho kujugunya imyanda. Isuku no gutunganya bihoraho bifasha kubungabunga isuku n’umutekano w’aho hantu.
+
+Ingendo mpuzamahanga zirasaba inyandiko z’urukingo z’umwimerere zemewe n’amakopi yemewe. Tekereza ibisabwa n’igihugu ugiye mo igihe kirekire mbere y’ingendo kuko hari ibihugu bisaba inkingo zatanzwe mu gihe runaka mbere yo kwinjira.
+
+Guhungabana mu bikoresho by’inkingo bishobora kugira ingaruka ku mutekano no ku mikorere yazo, bigomba guhita bitangazwa no gukurwaho. Sukuma neza ibikoresho by’inkingo mbere yo kubikoresha kugira ngo harebwe niba bitangiritse, harimo kumeneka, gutonyoka, cyangwa ibipfundikizo bidafunze neza. Andika ibibazo byose bijyanye n’inkingo zangiritse, harimo nimero za loti n’ibyo byabaye, kugira ngo hagaragazwe ibishobora gutera ibyo bibazo mu gihe cyo gutwara cyangwa kubika.
+
+Abantu bafite amateka y’uburwayi bwo kutihanganira ibintu runaka bakeneye uburyo bwihariye bwo kugenzurwa mu gihe no nyuma yo gukingirwa kugira ngo birinde ibibazo. Abatanga serivisi z’ubuzima bagomba gusuzuma amateka arambuye y’uburwayi bwabo bagashyiraho igihe cyose cyo kubagenzura hashingiwe ku byago byabo. Ibikoresho n’imiti y’ubutabazi bigomba kuboneka hafi, kandi abakozi bagahugurwa mu kumenya no kwita ku bibazo biterwa no kutihanganira ibintu runaka.
+
+Gukingira ahantu hatarimo ibiribwa n’ibinyobwa ni ingenzi mu gukumira kwandura no kwirinda impanuka. Ubu buryo bufasha gukumira kwandura ibikoresho by’isuku no kwirinda kumena ibintu bishobora kwangiza ahabikwa inkingo. Ibimenyetso bisobanutse bigomba kwerekana ibyo bihugu, kandi abakozi bagomba kubikurikiza neza.
+Gushyira mu nyandiko neza abantu banze gukingirwa bifasha inzego z’ubuzima gusuzuma impamvu n’ingamba zo kwigisha zishingiye ku bibazo bihari. Harimo impamvu zihariye zo kwanga, inyigisho zatanzwe, n’ingamba zo gukomeza kubakurikirana. Ibi bifasha mu bikorwa by’ubuzima rusange byo kongera urugero rw’abakingirwa no gukemura ibibazo bihari.
+
+Isuku y’intoki hagati y’abarwayi ni ngombwa mu gukumira kwanduzanya. Abakozi b’ubuzima bagomba gukurikiza amabwiriza ahamye yo gukaraba intoki cyangwa gukoresha intoki zanduye hagati y’umurwayi n’undi. Kugenzura isuku y’intoki kenshi bifasha kugumana urwego rwo hejuru rwo gukumira kwandura.
+
+Udupfunyika dufunga neza ku nkingo ni ibimenyetso by’ingenzi by’umutekano no kudafungwa neza. Abatanga serivisi z’ubuzima bagomba kugenzura neza utwo dupfunyika mbere yo gukoresha, bareba ibimenyetso byose by’uko twafungutse cyangwa twangiritse. Shyiraho inzira zisobanutse zo gukoresha no gutangaza ibipfunyika byafungutse kugira ngo hakingirwe umutekano w’inkingo.
+
+Gushyira mu nyandiko nimero za loti ku nkingo n’ibindi bikorwa ni ingenzi mu kugenzura ubwiza no gukurikirana umutekano. Aya makuru atuma hamenyekana vuba ibibazo n’inkingo zigomba gukurwa ku isoko mu gihe habonetse ikibazo cy’umutekano. Bika neza nimero za loti mu nyandiko z’abarwayi no mu bubiko bw’ibigo.
+
+Inzira zo guhangana n’ibihe bidasanzwe zigomba guhora zongera gukorwa ngo zijyanishwe n’ibigezweho no gutanga ibikenewe. Abakozi bose bagomba kugira uruhare mu myitozo yo gukomeza kugira ubuhanga mu kubyitwaramo neza. Gushyira mu nyandiko amabwiriza n’inshingano z’umuntu ku giti cye mu bihe byihutirwa bifasha gukemura ibibazo neza.
+
+Gukingira mu gitondo ku bana bato bitanga amahirwe yo kugenzurwa igihe kirekire ku munsi. Ibi bituma ababyeyi bakurikirana ibimenyetso mu masaha asanzwe y’umunsi kandi babona ubufasha bw’ubuzima igihe bibaye ngombwa. Tekereza ku buryo bwo kubona ibiryo n’umwanya w’ababyeyi mu gihe utegura gahunda y’abana.
+
+Gutegura neza aho gushyira imyanda y’imijugujugu ni ingenzi mu gukumira imvune no gutwara imyanda neza. Ibikoresho bigomba gushyirwa ku gipimo cyiza no gusimbuzwa igihe bigeze aho bigomba kubikwa. Kugenzura kenshi umutekano w’aho binyuzwa bifasha kugumana umutekano w’ibikoresho.
+
+Gushyira mu nyandiko aho inkingo zakozwe bituma hakurikiranwa ibibazo bishobora kuvuka kandi bituma intera zubahirizwa neza. Harimo ibice nyirizina by’umubiri, uburyo bwo gutera inshinge bwakoreshejwe, n’ibyabonetse ako kanya mu nyandiko z’abarwayi. Ibi bifasha mu iperereza ry’imyitwarire ikurikiraho aho inkingo zatanzwe.
+
+Gusuzuma kenshi uburyo bwo kubika inkingo bigomba gutekereza ku buryo bwo kugenzura ubushyuhe, kubungabunga ibikoresho, n’uko abakozi bakurikiza amabwiriza. Guhindura uburyo bikorwamo bigomba kwita ku nkingo nshya, ibikoresho bishya, no ku mabwiriza mashya. Bika byose bijyanye n’izi mpinduka mu nyandiko z’ubuziranenge.
+
+Kugenzura uko wiyumva nyuma yo gukingirwa birimo kuryama bihagije no kunywa amazi ahagije kugira ngo umubiri wawe uhangane neza. Gukurikirana no gushyira mu nyandiko ibimenyetso byagaragaye, igihe byatangiriye, igihe bimara, n’ubukana bwabyo. Gumana itumanaho n’abaganga ku bimenyetso bidasanzwe.
+
+Kumurika ahantu hakingirwa ni ngombwa mu gutegura neza inkingo, kuziha, no kugenzura uko abarwayi bitwara. Sisitemu y’amatara igomba gutanga umucyo uhagije utagamije gusaza cyangwa guteza ibibazo byo kubona nabi. Kubungabunga uburyo bwo kumurika neza mu gihe cyo gukingira ni ingenzi.
+
+Gukemura ibibazo byo gukoresha ibikoresho bigomba guhita bikorwa kandi bikandikwa kugira ngo umutekano w’inkingo ubungabungwe. Gushyiraho ingamba z’ububiko bw’inkingo mu gihe habaye ikibazo bifasha gukumira igihombo.
+
+Sisitemu zitandukanye z’ububiko bw’inyandiko z’ibikorwa by’inkingo zitandukanye zikumira akavuyo kandi zigatuma inyandiko zigirwa neza. Buri gahunda y’inkingo ishobora kugira ibisabwa bitandukanye byo gutanga raporo no gukurikirana. Kugenzura kenshi bizamura ubuziranenge bw’inyandiko.
+
+Kwemeza inshuro ebyiri umwirondoro w’umurwayi harimo gusuzuma ibimenyetso byinshi bigaragaza umuntu no kwemeza ko urukingo rukwiye. Ibi bigomba kwemezwa amazina, itariki y’amavuko, n’inkingo zateganyijwe ugereranyije n’inyandiko. Shyira mu nyandiko ibyo byemezo by’umwirondoro mu nyandiko z’abarwayi.
+Kubika neza inkingo bisaba gushyira intera ihagije hagati y’inkingo n’inkuta za frigo kugira ngo hirindwe izikwe ngo zifate. Kugenzura ubushyuhe aho zibikwa buri gihe bifasha kumenya ahantu hakonje cyane hashobora kwangiza inkingo. Gukurikira no guhindura uko ziteye hagendewe ku makuru y’ubushyuhe birakenewe.
+
+Ibyo kubikamo byuzuzanya bikenera ubushyuhe bukwiye nk’ubw’inkingo ubwabyo. Kugenzura ubushyuhe bwabyo hamwe n’amatariki yo kurangira ndetse n’ibirango by’inkingo zishamikiyeho birakenewe. Ibi bifasha kubungabunga ubuziranenge bw’inkingo.
+
+Amabwiriza yo gutabara yihutirwa agomba gushyirwa ahantu hose hagaragara mu gace k’inkingo. Arimo inzira zigenda buhoro ku buhoro n’amakuru yo kuvugana n’abantu b’ingenzi. Gusuzuma kenshi ayo mabwiriza byemeza ko ahora ari ah’igihe kandi aboneka.
+
+Gushyira mu nyandiko amakuru yose y’ibyago bibaye harimo uko byagenze, ibyo bakoze bihita, n’ibisubizo byabonetse bifasha mu guhindura uburyo bw’imikorere kugira ngo ibibazo nk’ibyo bitazongera. Shyiramo ibyo ababonye bavuze n’amakuru y’aho byabereye igihe bikenewe.
+
+Kugenzura amatariki yo kurangira inshuro imwe mu kwezi bifasha gukumira gutanga inkingo zarengeje igihe. Hindura uburyo bwo kugenzura amatariki no gukuraho ibyo byarengeje igihe. Andika inyandiko z’ibyo uvanweho byose kugirango bifashe mu kugenzura ububiko.
+
+Kugira kopiya nyinshi z’inyandiko z’inkingo bitanga umutekano mu gihe zagira ikibazo cyangwa zikabura. Zibike ahantu hatandukanye ku buryo bwa digitali n’ubwa fiziki. Gusuzuma kenshi uburyo bw’ububiko bwibika neza byemeza ko zishobora kuboneka igihe zikenewe.
+
+Kugenzura uburyo bwo kubika ubushyuhe rimwe mu gihembwe bifasha kumenya ahakwiye guhindurwa no kongera ubumenyi bw’abakozi. Tegura amahugurwa akubiyemo ibimenyetso bifatika ku bakozi bose bakorana n’inkingo. Andika ibyo barangije gukorerwa amahugurwa n’uko ubumenyi bwabo bwagenzuwe.
+
+Imbonerahamwe z’igenamigambi z’inkingo zigaragara zifasha mu kugenzura igihe cy’inkingo. Jya uhindura imbonerahamwe vuba igihe hari ibyemezo bishya byafashwe. Shyiramo ibikenewe hagati y’inkingo zitandukanye mu rugero rwazo.
+
+Kugenzura inshuro imwe mu cyumweru urwego rw’inkingo bifasha gukumira ibibazo byo kubura cyangwa gutinda kuzigera. Tekereza ku bihe by’umwaka bihindura ibyo inkingo zikenerwa. Jya ukora inyandiko zerekana uko inkingo zakoreshejwe kugira ngo zifashe mu gutegura iby’inkingi zizakurikira.
+
+Inyandiko z’ibibazo byo kutagira ubushyuhe bwiza zigomba gushyirwamo igihe byabereye, ubushyuhe bwagezeho, n’inkingo zagize ikibazo. Andika byose byakozwe mu guhangana n’ibibazo. Genzura uko inkingo zishobora gukoreshwa hagendewe ku mabwiriza y’abakora izo nkingo nyuma y’ibibazo.
+
+Kumenyesha amakuru y’abahamagara byihutirwa inshuro imwe mu kwezi byemeza ko amakuru ari ah’igihe. Shyiramo uburyo bwinshi bwo kuvugana kuri buri muntu. Jya usangiza ayo makuru abakozi bose bikenewe.
+
+Kugenzura ibikoresho byihutirwa buri cyumweru bigomba kureba niba byose byiteguye n’uko bikora neza. Tegura uburyo bwo kugenzura ibikoresho byose no gusimbuza ibyo byangiritse. Jya wandika ibyo ugenzuye byose n’imirimo y’ubungabunga yakozwe.
+
+Gutandukanya uburyo bwo gukurikirana inkingo z’inkunga bifasha kugira inyandiko zisobanutse ku nkomoko y’inkingo n’amateka y’uko zafashwe neza. Genzura izo nkingo nk’uko bikorerwa izaguzwe mu buryo bwose.
+
+Gukurikirana igihe cyo kuvanga inkingo bifasha gukoresha izo nkingo mu gihe cyazo cyiza. Andika igihe cyose zivanwe n’igihe zizaba zitagikwiye. Hindura uburyo bwo guhugura abakozi ku bijyanye n’uburyo bwo kuvanga neza n’ibisabwa mu gihe cy’inkingi.
+
+Kugenzura uburyo bwo kwinjira mu bibiko by’inkingo bisaba kurinda umutekano hakoreshejwe imbogamizi z’umubiri n’uburyo bw’ikoranabuhanga. Abakozi bagomba kwiyandikisha binjira, bigaragaza impamvu n’igihe cyabo. Gukurikira abemerewe kwinjira bigomba kujya bikorerwa kenshi kandi bigakosorwa igihe bibaye ngombwa.
+
+Gushyira mu nyandiko ibibazo byabaye mu gihe amashanyarazi yacitse bigomba gukubiyemo igihe yatangiriye n’igihe yagarukiye, ubukonje bwagezweho, n’igihe inkingo zamaze ziri mu bushyuhe butemewe. Shyiraho ibikoresho bipima ubushyuhe bihora bikora kandi bifite bateri yihariye. Tegura no gukomeza imigambi yo kwimura inkingo mu bindi bibiko mu gihe cy’ibura ry’amashanyarazi rihoraho.
+
+Inzira zo gusuzuma abarwayi zigomba kugenzurwa kenshi hagamijwe kwinjiza amabwiriza mashya y’inkingo, ibyo umuntu atakwihanganira, n’ibigomba kwitabwaho. Hindura ibibazo bisabwa mu gusuzuma, bijyanye n’ubumenyi bugezweho n’ibibazo bishya by’ubuzima. Hugura abakozi ku buryo bwo kugenzura abarwayi no gushyira mu nyandiko ibisabwa kugira ngo bikorwe neza.
+
+Kugenzura buri munsi uburyo bwo kujugunya imyanda y’inkingo bigomba gukurikiza amabwiriza y’umutekano n’ibisabwa byo kurengera ibidukikije. Tegura uburyo bunoze bwo gutandukanya ubwoko bw’imyanda nk’ibiyiko byakoreshejwe, inshinge, n’ibikoresho byanduye. Genzura uburyo bwo kujugunya neza iyo myanda kandi ugenzure ko amategeko ashyirwa mu bikorwa.
+
+Imbonerahamwe z’ubushyuhe zigomba gushyirwa hafi y’ibikoresho bibikamo inkingo kugira ngo zibonwe byoroshye kandi zishyirweho amakuru ako kanya. Hindura uburyo bwo kugenzura no kwemeza amakuru y’ubushyuhe burikwe n’abashinzwe. Bikure inyandiko zose z’amateka y’ubushyuhe ku bw’igenzura n’ubwemezo.
+
+Inyandiko z’amahugurwa y’abakozi zigomba kugaragaza amatariki y’amahugurwa y’ibanze, igihe yagaruwe, n’igihe kizaza cyo kuyavugurura. Tegura uburyo bw’ikoranabuhanga bwo kwibutsa abayobozi igihe amahugurwa ashobora kuba agomba kongera. Bikure inyandiko zerekana ibyigwa byakozwe n’uko ubushobozi bw’abakozi bwagenzuwe.
+
+Kugenzura imifuka y’ubutabazi bwihutirwa rimwe mu kwezi bigomba kwemeza ko ibikoresho byose bimeze neza kandi bihari. Tegura uburyo bwo kureba amatariki y’ibikoresho birangiza igihe n’ibyo bigomba gusimbuzwa. Hugura abakozi ku buryo bwo gukoresha ibikoresho biri muri iyo mifuka.
+
+Kugenzura uko abarwayi bagenda neza bituma habaho uburyo bwo kugabanya umubyigano kandi haboneka ahantu hakwiye ho kugenzura abarwayi nyuma yo gukingirwa. Tegura uburyo bwo kugabanya guhurira hamwe abantu mu buryo bw’imirongo y’itumanaho. Tegura gahunda yo gutanga igihe cyo gukingira hagamijwe kugabanya umubyigano.
+
+Aho gutegurira inkingo hagomba gutandukanywa neza kandi hashyirweho ibimenyetso bigaragara kugira ngo hirindwe kwivanga cyangwa kwandura. Shyiraho ahantu hatandukanye ho gutegurira ubwoko butandukanye bw’inkingo n’amabwiriza y’ibyo gukoresha. Tegura gahunda yo gusukura hagati yo gutegura inkingo zitandukanye.
+
+Gushyira mu nyandiko amakosa yagaragaye mu gihe cyo gukingira bigomba kugaragaza neza uko byabaye, ibyo bakoze ako kanya, n’ingamba z’igihe kirekire zafashwe. Kora isuzuma ryimbitse ry’impamvu nyamukuru z’ayo makosa kugira ngo bitazasubira. Sangiza amasomo y’ubumenyi abayobozi n’abakozi, ariko wirinde kwerekana ibyihariye ku mukozi ku giti cye.
+
+Kugenzura uburyo bwo kubungabunga ibikoresho bibika inkingo inshuro enye mu mwaka bisuzuma ubushyuhe, uburyo ibikoresho bifunga neza, n’uko bikora muri rusange. Tegura gahunda y’ubungabunga hashingiwe ku mabwiriza y’ababikora n’uko byakoreshwaga. Bikure inyandiko zose zerekeye ubungabunga n’amasuzuma yakozwe.
+
+Gukurikirana uko abakozi bakurikiza amabwiriza y’umutekano bisaba kwigenzura kenshi no gufata ingamba igihe bibaye ngombwa. Tegura uburyo bw’amahame asobanutse ku mikoreshereze mibi kandi ubikore mu buryo bushyigikira gutanga raporo z’ikibazo. Bikure inyandiko zose zerekeye amakosa n’ingamba zafashwe.
+
+Ibyo kwigisha rubanda bigomba guhora bivugururwa kugira ngo bihuze n’amabwiriza mashya y’inkingo n’amakuru mashya ku buzima. Genzura neza ko ibyo bigisha bisomeka neza kandi bijyanye n’umuco. Shyiramo uburyo bwo kubitanga mu ndimi zitandukanye kugira ngo bibe bihwanye n’ubwoko bw’abantu bashakirwa ubuvuzi.
+
+Gushyira mu nyandiko ibibazo byo guhagarika urwego rw’ibikoresho bigomba kwerekana ingaruka zabyo ku nkingo zabonetse, uburyo bwo kubona izindi nkingo, n’itumanaho ryakorewe abafatanyabikorwa. Tegura imigambi yo guhangana n’ikibazo cyo kubura ibikoresho. Bikure inyandiko zose z’ibibazo byo gutinda cyangwa guhagarara kwa gahunda y’ibikoresho.
+
+Kugenzura urwego rwo guta inkingo inshuro imwe mu kwezi bifasha kumenya impamvu no gufata ingamba zo kubikumira. Genzura ku rugero rw’inkingo zatakaye ugendeye ku bwoko bwazo kandi usuzume impamvu zibyihishe. Tegura gahunda yihariye yo kugabanya gutakaza izitarakenewe.
+
+Impapuro zo gutanga raporo z’ibibazo bigomba kuba zihari kandi zigaragara mu bice byose bihakingirwa. Hugura abakozi ku bijyanye no kwandika neza no gutanga izo raporo. Tegura uburyo bwo gukurikirana no gusuzuma raporo zatanzwe.
+
+Amabwiriza y’abashyitsi mu bice bihakingirwa agomba guhuza n’ibikenewe mu kurinda kwandura no gushyigikira abarwayi. Tegura amabwiriza asobanutse yerekeye uburyo bwo kwinjira n’imyitwarire y’abashyitsi mu bice bihakingirwa. Genzura no kuvugurura ayo mabwiriza buri gihe kugira ngo akomeze gukora neza.
+
+Kugenzura imiryango y’ibikoresho bibikamo inkingo inshuro imwe mu cyumweru bifasha kwirinda ihinduka ry’ubushyuhe no kubungabunga ibikoresho neza. Tegura uburyo bwo gusuzuma imyanya y’imiryango harebwa niba hari aho yangiritse cyangwa yarengeje igihe. Bikure inyandiko zose z’ibisubizo by’amasuzuma n’ibyo wasimbuje.
+
+Kubungabunga imashini zungurura amashanyarazi (backup generators) bigomba kwibanda ku kugenzura imikorere yazo igihe cyose ndetse n’uko lisansi yazo imeze. Tegura gahunda yo kugenzura uko zikora mu bihe bitandukanye byo gupimisha. Andika ibyo wakorewe byose mu rwego rw’imikorere n’amasuzuma.
+
+Gushyira mu nyandiko ibibazo by’ingendo z’inkingo bigomba gukubiyemo amakuru yerekeye uburyo inkingo zanyuzwemo, igihe byatwaye, n’uko ubushyuhe bwari bwifashe. Tegura uburyo bwo kugenzura ubushyuhe ku buryo burambye mu gihe cyo gutwara. Bikure inyandiko zose z’ibyabaye mu ngendo.
+
+Gusuzuma uburyo bwo kurinda umutekano inshuro enye mu mwaka bigomba kureba imbogamizi z’umubiri, uburyo bwo kugenzura abinjira, n’uburyo bwo gukurikirana ibikorwa. Hindura amabwiriza y’umutekano uhereye ku bisubizo by’amakuru n’ibibazo byagaragaye. Bikure inyandiko zose z’ibyo wasuzumye n’ibisubizo byafashwe.
+
+Gusuzuma uko abakozi bakingiwe inshuro imwe mu mwaka bigomba kwemeza ko abakozi bafite ubwirinzi bukwiye bw’inkingo. Genzura no kwibutsa abakozi igihe inkingo zabo zizaba zikeneye kongerwa. Bikure inyandiko ziteye ibanga zerekana uko bakingiwe.
+
+Gushyiraho gahunda y’isuku igaragaza imirimo isabwa, kenshi ikorwa, n’abashinzwe kuyikora bigomba kugaragazwa mu bice bihakingirwa. Tegura uburyo bwo gukurikirana imirimo yakozwe kandi ugire igenzura rihoraho ry’uko isuku ishyirwa mu bikorwa.
+
+Gushyira mu nyandiko ibibazo by’itumanaho bigomba kwerekana ibikenewe mu ndimi, ibijyanye n’umuco, n’ingamba zashyizweho. Tegura urutonde rw’abasemuzi n’ibikoresho byanditse mu ndimi zitandukanye. Genzura kenshi niba abafite ibibazo byo kumvikana bahabwa ubufasha bukwiye.
+
+Gukurikirana ibibazo by’ubuzima bivuye mu nkingo inshuro imwe mu kwezi bigomba gufasha kumenya ibimenyetso bishobora kugaragaza ikibazo cy’umutekano cyangwa impungenge. Tegura uburyo bwo gusuzuma amakuru yerekeye ubukana, aho byabaye, cyangwa ubwoko bw’inkingo. Hindura gahunda yo gukurikirana niba ibimenyetso bidasanzwe bigaragara.
+
+Imyitozo yo gutabara mu buryo bwihutirwa igomba kugerageza ibyiciro bitandukanye by’ibibazo n’uburyo abakozi babyitwaramo. Tegura inyandiko z’ukuntu abakozi bitwaye kandi urebe ibyo bakeneye gukosorwa. Vugurura uburyo bwo gutabara hagendewe ku byo wigiye mu myitozo.
+
+Gusuzuma ibikoresho byigisha abarwayi inshuro enye mu mwaka bigomba kureba neza neza niba bikubiyemo amakuru agezweho kandi asomwa neza. Tegura uburyo bwo kubigeza ku bantu mu ndimi zitandukanye no mu buryo butandukanye nk’amajwi n’amashusho. Tegura gahunda yo gukoresha inama z’abahanga n’ibitekerezo by’abarwayi.
+
+Gukurikirana uburyo bwo kubika inkingo inshuro imwe mu cyumweru bigomba gukubiyemo kubara inkingo mu buryo bw’imibare hamwe no kugenzura inyandiko z’ikoranabuhanga cyangwa izanditse. Tegura uburyo bwo gusuzuma amakosa no guhuza imibare mu gihe bibaye ngombwa.
+
+Inyandiko z’ubungabunga ibikoresho zigomba kwerekana uko byabikorewe, ibyakozwe byose, n’igihe byakozwe. Tegura gahunda yo gusuzuma neza no kugorora ibikoresho byose bikenerwa mu kubika inkingo. Bikure inyandiko zose z’ibyakozwe ku bikoresho.
+
+Gushyira mu nyandiko amakuru yose yerekeye ikibazo cyo kubura ubushyuhe bukwiye bigomba kugaragaza igihe cyabereye, ubukana bwabyo, n’ingamba zafashwe. Genzura imiterere y’inkingo zafashwe n’icyo kibazo hagendewe ku mabwiriza y’abakora izo nkingo.
+
+Isuzuma ry’ubumenyi n’ubushobozi bw’abakozi inshuro imwe mu mwaka rigomba kureba ubumenyi bwabo mu by’amategeko, imikorere, n’ubutabazi bwihutirwa. Hindura uburyo bwo gutegura amahugurwa ashobora kuziba icyuho mu bumenyi bw’abakozi.
+
+Kugenzura igihe abarwayi bamara bategereje bigomba gufasha kumenya aho hari imbogamizi no kongera uburyo bw’imikorere. Hindura uburyo bwo kugabanya igihe cyo gutegereza utitaye ku mutekano n’ubwiza bw’umurimo.
+
+Gushyira ibyerekeye uburyo bwo gutandukanya imyanda y’inkingo ahantu hagaragara mu bice by’inkingo bigomba kwerekana uburyo bwo kuyitandukanya no kuyijugunya. Shyiraho ibimenyetso by’amashusho byerekana uko buri bwoko bw’imyanda bufatwa.
+
+Ibibazo byose bijyanye n’ubuziranenge bigomba gushyirwa mu nyandiko no guhabwa umwanya w’ibiganiro byimbitse kugira ngo hagaragazwe impamvu zabyo. Tegura uburyo bwo kugenzura ibyavuyemo kandi ushyire mu bikorwa ingamba zo kubikumira.
+
+
+Gukurikirana uko abarwayi banyuzwe bigomba gukorwa hakoreshejwe ubusabe bw’ibitekerezo, kwandika ibyo babona n’ibindi. Tegura uburyo bwo gutunganya ibyo bituma ikibazo gikemuka kandi unamenyeshe abarwayi ibyo wakemuye.
+
+Kugenzura urwego rw’ibikoresho by’ubutabazi bigomba gukorwa kenshi, hakarebwa niba ibikoresho byose bikiri mu gihe cyabyo kandi bihari. Shyiraho urutonde rw’ibikoresho by’ibanze bigomba guhora bihari kandi utegure uburyo bwo guhinduranya ibishaje. Andika ibyakozwe byose ku byerekeye ibikoresho byakoreshejwe cyangwa byasimbujwe.
+
+Gusesengura inshuro imwe mu kwezi uko inkingo zatanzwe mu bice cyangwa mu baturage bigomba kumenya ahakiri ikibazo cyo gukingirwa gike. Tegura uburyo bwo gutanga ubufasha bwihariye mu bice bifite ikibazo no gukurikirana niba ingamba zafashwe zatanze umusaruro.
+
+Kugenzura uburyo ubushyuhe bw’ibikoresho bihora bihindagurika bifasha kumenya ibibazo mbere y’uko bihinduka ikibazo gikomeye. Tegura uburyo bwo gusesengura amakuru y’ubushyuhe no gufata ingamba zikwiriye mu gihe bibaye ngombwa.
+
+Inyandiko z’amahugurwa y’abakozi zigomba gukurikirana amahugurwa y’ibanze, ayo kongerera ubumenyi, n’ayo yihariye ku bikorwa byihariye. Tegura gahunda ihoraho y’amahugurwa kugira ngo ubashe gukomeza kuzamura ubumenyi n’ubushobozi bw’abakozi.
+
+Gushyira mu nyandiko amakosa y’ibikoresho bigomba gukubiyemo uko byabaye, ibyo byateye, n’ingamba zafashwe mu kubikosora. Tegura imigambi yo kubungabunga no gutanga uburyo bw’ububiko bwihutirwa mu gihe habaye ibibazo.
+
+Gusuzuma amakuru y’ibyabaye byerekeye umutekano inshuro enye mu mwaka bigomba kwerekana imizi y’ibibazo no kugena uburyo bwo gukumira ibindi. Tegura uburyo bwo gusangira ibyo wize hamwe n’abakozi, ariko ubitonde ku bijyanye n’ibanga ry’amakuru.
+
+Gusuzuma uburyo bwo gutumiza inkingo bigomba gufasha gukumira ibibazo byo kugira inkingo nyinshi cyane cyangwa nke. Tekereza ku mpinduka z’ibyifuzo by’inkingo, ibihe by’umwaka, n’uburyo bwa gahunda zateguwe. Andika ibituma ufata imyanzuro ku bijyanye n’itangwa ry’inkingo.
+
+Imyandiko y’isuku y’ibikoresho bibika inkingo igomba kwerekana inshuro z’isuku, ibyakozwe, n’ababikoze. Shyiraho amabwiriza yihariye y’isuku yo ku bice bitandukanye by’ibikoresho n’aho bihuriye.
+
+Gushyira mu nyandiko uko amabwiriza yagabweho bigomba kugaragaza impamvu yabyo, isesengura ry’ibyago, n’ibisubizo byabonetse. Hindura uburyo bwo kugenzura niba izi mpinduka zatanze umusaruro.
+
+Gukurikirana uko abarwayi bahabwa inkingo zikurikirana bigomba kwerekana niba gahunda zo kwibutsa zatanze umusaruro. Tegura uburyo bwo kuvugana n’abarwayi basiba igihe cyo gukingirwa kandi wandike ibyo bakoze byose.
+
+Amakarita y’amakuru yihutirwa agomba kugaragaza uburyo bwo kuvugana burenze bumwe ku bakozi b’ingenzi n’inzego z’ubufasha. Hindura amakuru buri kwezi cyangwa igihe abakozi bashya batangiye cyangwa abandi bagiye. Genzura niba nomero zose zigikora neza.
+
+Gusuzuma uburyo bwo gutunganya ibikoresho bibikamo inkingo inshuro imwe mu kwezi bigomba gukurikirana uko inkingo ziteye, uko zashyizweho ibimenyetso, n’uburyo bwo kuzihinduranya. Tegura uburyo bworoshye bwo kugabanya igihe cyo gufungura ibikoresho mu gihe inkingo zikurwamo.
+
+Gukurikirana ibyo abakozi bakora bifasha kugabanya umunaniro no kubungabunga ubwiza bw’imikorere binyuze mu gutanga inshingano ku buryo bwiza. Genzura uko abakozi bashobora kuba bafite umunaniro cyangwa inshingano ziremereye, kandi ugabanye imirimo mu buryo bukwiye.
+
+Inyandiko z’isuzuma ry’ibibazo bigomba kugaragaza uko byagenze, impamvu zabyo, n’ibyavuye mu iperereza. Shyiramo ubuhamya bw’abari aho n’isesengura ry’abahanga mu gihe bibaye ngombwa. Bikure inyandiko z’igihe kirekire kugira ngo bifashe mu buvugizi no mu guhindura amategeko.
+
+Gushyira mu nyandiko gahunda zasibwe bigomba kwerekana impamvu zo gusiba gahunda n’uburyo bwo kwibutsa bwakozwe. Tegura uburyo bwo kongera kuvugana n’abasibye gahunda kandi wige ku mpamvu zabiteye kugira ngo ubone igisubizo.
+
+Gusuzuma uburyo bwo gutegura inkingo bigomba kwemeza ko bikurikiza amabwiriza y’abakora izo nkingo n’uburyo bwiza bwo kuvanga no gukoresha. Tegura amahugurwa y’abakozi bashya no gusuzuma uburyo bwiza bwakoreshwaga n’abafite uburambe.
+
+Gukurikirana uko raporo z’ibibazo bitunguranye bitangwa bigomba kwerekana igihe zatangiwe n’uburyo zashyikirijwe inzego zose. Tegura uburyo bwo gukurikirana ibibazo byose byatangajwe kandi bikore dosiye z’ibisubizo byose byakozwe.
+
+Guhindura ibikoresho bipima ubushyuhe bikurikije amabwiriza y’ababikoze bigomba kujyana no kugenzura ingufu za bateri n’uko bikora. Tegura ibikoresho by’ububiko bwihutirwa igihe ibikoresho bikenerwa bidasanzwe. Bikure inyandiko zose z’amasuzuma.
+
+Gushyira mu nyandiko ibyakozwe mu gusana ibikoresho bigomba gukubiyemo uko ikibazo cyagenze, ingamba zafashwe, n’uburyo byagenzuwe nyuma yo kubikosora. Tegura uburyo bwo gusuzuma neza ko ibyo bikoresho byakira inkingo mbere yo kubisubiza mu kazi.
+
+Gusesengura ibyavuye mu bikorwa by’ubutabazi bigomba kugaragaza niba uburyo bwakoreshejwe bwatanze umusaruro kandi hagashyirwaho uburyo bwo gukosora ibitagenda neza. Tekereza ku bitekerezo by’abakozi bateguye ubutabazi kandi uhindure amabwiriza hagendewe ku bumenyi bw’ibyo wize.
+
+Gukurikirana uburyo bwo gutanga inkingo bigomba kugenzura ibyo abakozi bakora kandi bikarushaho kunozwa. Tegura uburyo bwo gusuzuma no kungurana ibitekerezo hagati y’abakozi. Andika ibyo wabonye byose no gusubiza ibyo bikenewe.
+
+Ibikoresho byo gusuzuma abarwayi bigomba kuvugururwa kenshi hagamijwe kwinjiza amabwiriza agezweho, ibibazo bishya by’ubuzima, n’amabwiriza mashya y’inkingo. Tegura inyandiko zisobanutse zigamije gukusanya amakuru yihariye ajyanye n’ubuzima bw’abarwayi, imiti bakoresha, n’inkingo bigeze guhabwa. Genzura ko izo nyandiko zisobanutse kandi zoroshye gusobanura.
+
+Gushyira mu nyandiko ibibazo byo kubura ibikoresho bigomba kugaragaza ingaruka zabyo, uburyo bwo kubona ibikoresho byihuse, n’ingamba zo gutanga izindi nzira z’ubutabazi. Tegura uburyo bwo kuganira n’abafatanyabikorwa mu gihe habaye ikibazo kandi wandike ibisubizo byose byafashwe.
+
+Gukurikirana uburyo bwo kubungabunga ubushyuhe mu buryo bw’ikoranabuhanga bigomba gusuzumwa kenshi kugira ngo hagenzurwe neza ko ubushyuhe buhora ari bwo bukwiye. Tegura uburyo bw’ibikoresho bifite ubushobozi bwo gutanga amakuru y’ubushyuhe burikwe kandi andike ingamba zose zafashwe mu gihe ubushyuhe bwarenze urugero.
+
+Kugenzura niba abarwayi bumvise neza ibyo bigishijwe bigomba gukorwa hagamijwe kumenya niba bazi neza ibyo bagomba gukora nyuma yo gukingirwa, ibimenyetso bashobora kubona, n’igihe cyo gushaka ubufasha. Tegura uburyo bwo gusesengura uko basobanukiwe, nka tekiniki y’uko bisubiramo ibyo bigishijwe, n’ibibazo bishobora guterwa no kutamenya.
+
+Igihe gahunda y’inkingo yahindutse, izo mpinduka zigomba kugaragazwa neza mu bice byose bihakingirwa, harimo n’aho abarwayi babona amakuru. Tegura uburyo bwo kohereza impinduka vuba kandi neza mu bice byose. Andika kopi z’amateka y’inkingo zashize kugirango zifashwe mu gihe bigaragara ko bikenewe.
+
+Inyandiko zo gukusanya ibikoresho byo gupima bigomba kugaragaza uburyo bwiza bwo gukusanya, gushyira ibirango, kubika, no gutwara ibyo bikoresho. Tegura amabwiriza asobanutse yo kubungabunga ubuziranenge bw’ibikoresho byakusanyijwe kandi uhugure abakozi kenshi.
+
+Gukurikirana uburyo bwo gutandukanya imyanda y’ubuzima rimwe mu kwezi bifasha kumenya niba imyanda y’inkingo n’indi myanda bijugunywa neza. Tegura igenzura kenshi ku buryo bwo kuyitandukanya kandi wandike ibyo byakozwe byose mu rwego rwo guhuza n’amabwiriza y’ubuyobozi.
+
+Gushyira mu nyandiko inshuro ibikoresho bifungurwa bigomba gukorwa hagamijwe kugabanya ingaruka ku bushyuhe bw’ibikoresho. Tegura gahunda yo guhuza ibikorwa byose bikenera ko ibikoresho bifungurwa kandi ukore inyandiko zigaragaza igihe cyose byafunguwe.
+
+Kuvugurura amabwiriza y’ubutabazi bigomba kumenyeshwa abakozi bose mu buryo 
+butandukanye kugirango bose bamenye ibyo bagomba gukora. Tegura amahugurwa yerekeranye n’izo mpinduka kandi usuzume uko abakozi babisobanukiwe. Bikure inyandiko zerekana igihe impinduka zakozwe n’uko zashyizwe mu bikorwa.
+
+Gushyira mu nyandiko impamvu zo gusubika gukingira bigomba kugaragaza ikibazo cy’ubuzima cyabiteye, isuzuma ry’ibibazo bishobora kuvuka, n’igihe cyo kongera gukingira. Tegura uburyo bwo gukurikirana abarwayi bategereje gukingirwa kandi wandike uburyo bwo kuvugana n’abaganga babo ku birebana n’amateka yabo.
+
+Ibikorwa byo gukumira kwandura mu bice by’inkingo bigomba gukurikiza amabwiriza agezweho mu gukumira ikwirakwizwa ry’indwara no kubungabunga isuku. Tegura gahunda ihamye yo gusukura, ukurikize amabwiriza y’isuku y’intoki, kandi ukore igenzura kenshi ry’uko ibyo bikorwa bikurikizwa. Bikure inyandiko zose z’ibikorwa byo gukumira kwandura kandi ukemure ibibazo byose byagaragaye vuba.
+
+Aho abarwayi bagarura ubuyanja bigomba gutegurwa neza ku buryo buha agaciro guhumeka neza, kwitegura ubutabazi bwihutirwa, no kubungabunga ibanga ry’abarwayi. Genzura kenshi ibikoresho byo kugenzura ibimenyetso by’ubuzima n’ibikoresho by’ubutabazi. Andika ibyo wabonye byose hamwe n’ibibazo byashoboraga gutegurwa igihe byagaragaraga.
+
+Sisitemu zo gukurikirana ibikoresho zigomba kureba uko byifashishwa, gushyiraho urwego rw’ibikoresho by’ingenzi, no gutegura uburyo bwo kwibutsa igihe igipimo cy’ibikoresho kigera ku rugero rw’ikigero cyo kongerwa. Gukora ibarura kenshi bigomba kugenzura neza inyandiko z’ibikoresho kandi bikemure amakosa yose yabonetse. Tegura inyandiko zerekana uko ibikoresho byakoreshejwe kugira ngo bifashe mu gutegura ibyo uzakenera mu gihe kizaza.
+
+Gushyira mu nyandiko ibijyanye no gusubiza amatangazo y’ubushyuhe bigomba kugaragaza igihe ikibazo cyatangiriye, imiterere yacyo, ibyo byakozwe, n’ibisubizo byavuye mu kugenzura uko inkingo zifite ubushobozi bwo gukoreshwa. Tegura uburyo butandukanye bwo kugenzura amatangazo y’ubushyuhe no kugenzura uko abakozi batanze ibisubizo.
+
+Gukurikirana uko abakozi bubahiriza amabwiriza y’umutekano rimwe mu cyumweru bigomba kureba uburyo bakoresha ibikoresho by’umutekano, uburyo bakurikiza amabwiriza, no kumenya ibibazo bishya bijyanye n’umutekano. Tegura amahugurwa kenshi kandi wandike uko abakozi bakurikiza ibyo basabwa.
+
+Igihe cyo kuvanga inkingo kigomba gukurikiza amabwiriza y’abakora inkingo ku buryo bikoreshwa igihe kirekire bikwiriye. Shyiraho sisitemu isobanutse yo kwandika igihe zivanzwe no gushyiraho ibimenyetso bigaragaza igihe byihutirwa kuzo gukoresha. Hugura abakozi bose ku bijyanye n’uburyo bwo kuvanga neza.
+
+Ibikoresho by’ubutabazi bigomba kuba ahantu hafashwe neza kandi hateguwe ku buryo bikorohereza abakeneye ubufasha igihe cyihutirwa. Tegura uburyo bwo gusuzuma ibikoresho buri munsi, harimo na defibrillators, imiti y’ubutabazi, n’ibikoresho by’imfashanyigisho. Andika ibyo ugenzuye byose hamwe n’uburyo bwo kubungabunga.
+
+Inyandiko zirebana no kwita ku bijyanye n’umuco w’abarwayi zigomba kugaragaza ibyo bakeneye byihariye, uburyo bashaka gukoresha mu itumanaho, ndetse n’ibijyanye n’umuco cyangwa imyemerere bishobora kugira uruhare mu gukingirwa kwabo. Tegura uburyo bwo kuganira ku mpungenge zisanzwe z’umuryango runaka kandi uhugure abakozi ku kwita ku mico y’abantu no kubaha.
+
+Ibikoresho bitwara inkingo bigomba gusuzumwa buri gihe hagamijwe kureba niba bifite ubushobozi bwo kubika neza ubushyuhe no kugumana ubushobozi bwo kurinda. Tekereza ku ikoreshwa ry’ibikoresho byabaye bishaje kandi wandike uburyo bwo gusimbura hagendewe ku mikorere yabyo.
+
+Ahantu hateganijwe abarwayi bigomba kugenzurwa kenshi hagamijwe kureba ubushyuhe, guhumeka neza, uko intebe ziteye, n’urwego rw’umutekano w’ijwi. Tegura uburyo bwo gukemura ibibazo bijyanye no kutishimira ibyo bice kandi wandike uburyo byakemuwe.
+
+Sisitemu z’inyandiko z’inkingo zigomba gukurikiza amabwiriza akomeye y’umutekano kandi zigaha ababifitiye uruhushya uburyo bwo kugera ku makuru bakeneye. Genzura kenshi uburyo bwo kugera ku makuru no kugira sisitemu z’ububiko bw’ingoboka z’inyandiko zose.
+
+Inyandiko z’isuku y’ibikoresho byo kubikamo inkingo zigomba kugaragaza uburyo bwo gusukura, ibikoresho by’isuku byakoreshejwe, n’amasuzuma yakozwe nyuma yo gusukura. Tegura uburyo bwo guhangana n’ikimenyetso cyose cyanduye igihe bigaragaye.
+
+Kugenzura uko abakozi bakurikiza isuku y’intoki bigomba gukorwa binyuze mu kubareba uko babikora no gushyira mu nyandiko uburyo bakurikiza amabwiriza. Tegura uburyo bwo gutanga ibikoresho by’isuku bihagije mu bice byose byabugenewe. Gukurikirana uko isuku y’intoki ikurikizwa byihutirwa bigomba gukosorwa igihe habonetse ibitarakozwe neza.
+
+Imyandikire y’inkingo mu bubiko igomba kugaragaza ibimenyetso bisobanutse, intera ihagije hagati y’inkingo, n’uburyo bunoze bwo kuzigena neza. Shyiraho uburyo bw’amabara cyangwa uburyo bw’amashusho bufasha mu kwirinda kuvanga inkingo zitandukanye. Tegura gahunda yo gusuzuma ububiko kenshi no gushyira mu nyandiko impinduka zose zikozwe.
+
+Inyandiko z’igihe cyitabajwe ubutabazi zigomba kugaragaza igihe ikibazo cyatangiriye, uko guhangana nacyo byatangiye, n’uko byarangiye. Genzura uko ibisubizo byatanzwe kandi usuzume aho gahunda z’ubutabazi zikeneye kunozwa. Bika inyandiko zose zerekeye uburyo bwose bw’ubutabazi bwatanzwe.
+
+Inyandiko z’umuco w’itumanaho zigomba kugaragaza ururimi rwakoreshejwe, umukozi watanze ubufasha, n’igihe cyakoreshejwe. Tegura urutonde rw’abatanga ubufasha mu ndimi zitandukanye kugira ngo habeho ihame ryo gukomeza kubona ubufasha igihe cyose bukenewe. Komeza gukusanya amakuru y’indimi zikenerwa cyane kugira ngo utegure uko zizifashishwa mu gihe kizaza.
+
+Ibikorwa byo kubungabunga ibanga ry’abarwayi bigomba guha agaciro ibibangamiye urusaku, urwego rw’umutekano mu buryo bw’ibanga, no gukorana neza mu gucunga amakuru. Genzura kenshi uburyo ibanga rikurikizwa kandi ukore impinduka zishingiye ku bibazo bibonetse. Hugura abakozi ku mategeko n’amabwiriza yo kubungabunga ibanga.
+
+Amabwiriza yo gukurikirana abarwayi nyuma yo gukingirwa agomba kugaragaza igihe cyo kugenzura, ibimenyetso byo kwitondera, n’uburyo bwo guhangana n’ibibazo bitunguranye. Hugura abakozi ku kumenya ibibazo bihita byigaragaza no ku buryo bwo gushyira mu nyandiko ibyo bagaragaje. Tegura inyandiko zuzuye zireba uko abarwayi bakurikiranywe.
+
+Igenzura ry’amakuru y’ubushyuhe bigomba kureba niba ibipimo byanditswe neza kandi bikagenzurwa inshuro ebyiri. Tegura uburyo bwo gutanga amakuru ako kanya igihe habonetse ikibazo cy’ubushyuhe butari bukwiye. Bika inyandiko zuzuye z’amakuru yose y’ubushyuhe kugira ngo bijyanishwe n’amategeko.
+
+Amabwiriza mashya agomba kumenyeshwa abakozi bose akenewe kandi agashyirwa mu bitabo by’amabwiriza. Tegura uburyo bwo gukurikirana ko abakozi bose bamenye ayo mabwiriza kandi bakayakurikiza. Bika kopi z’amabwiriza ashaje nk’umutungo w’ibyo ushobora kongera gukenerwa.
+
+Gahunda z’ikiruhuko z’abakozi zigomba kugenzurwa kugira ngo haboneke igihe gihagije cyo kuruhuka kandi hirindwe amakosa aterwa n’umunaniro. Tegura uburyo bwo gusimburanya abakozi mu myanya y’imirimo y’umuvuduko mwinshi kandi wemeze ko abakozi bahagije bahari. Gukurikirana uburyo bw’ikiruhuko n’amakosa arebana n’umunaniro bikenewe.
+
+Gukurikirana uburyo bwo kujugunya imyanda y’inshinge bigomba kureba uko ibyuma bikurwamo inshinge bikoreshwa neza, gahunda zo kubisimbura, n’uburyo bwo kuyijugunya neza. Tegura uburyo bwo guhangana n’ibibazo byose by’imvune cyangwa ibijyanye no kwitwararika nabi. Bika inyandiko zose zerekeranye no kubahiriza ibyo byakozwe.
+
+Ibice by’aho gukingirira bigomba gutegurwa ku buryo butuma abarwayi batangira gahunda neza kandi bigafasha kugabanya umuvundo. Shyiraho ibimenyetso bigaragaza icyerekezo n’abakozi bafasha kugira ngo uburyo bwo kugenda mu bice byo gukingira bugende neza. Genzura umuvuduko w’abantu muri ibyo bice kandi uhindure uko bisabwa.
+
+Inyandiko z’uburyo bwo gusimbuza ibikoresho zigomba kugaragaza ikibazo cyabayeho ku bikoresho, uburyo bwo kubikemura, n’inyungu zitezwe ku bikoresho bishya. Tegura imigambi yo gusimbuza ibikoresho mu gihe kirekire kandi wandike ibipimo byakoreshejwe nyuma yo gusimbuza.
+
+Gukurikirana ibitekerezo by’abarwayi bigomba kugenzura ibirego, ibyifuzo, n’ibisubizo byatanzwe. Tegura uburyo bwo gukemura ibibazo byagaragajwe kandi menyesha abarwayi ibivuyemo. Bika inyandiko z’ibitekerezo byose hamwe n’ibikorwa byakurikiweho.
+
+Umutekano wo kugera ku bubiko bw’inkingo usaba gushyiraho uburyo bwinshi burimo imiryango ifunze neza n’uburyo bwo gukurikirana uburyo bwose bwo kubijyamo. Tegura amabwiriza akomeye yo gukoresha neza ibyo bubiko kandi bika inyandiko zerekana ibikorwa byose byerekeranye no kugera kuri ubwo bubiko.
+
+Urutonde rw’amakuru yihutirwa rugomba gushyirwa ahantu hagaragara ahantu henshi kandi rugashyirwamo imyirondoro y’abantu b’ingenzi. Genzura no kuvugurura amakuru buri kwezi kandi ugenzure niba nomero zose zigikora neza. Shyiraho urutonde rutandukanye rw’amakuru ajyanye n’ubwoko butandukanye bw’ibibazo.
+
+Inyandiko zerekana ibikenewe mu mahugurwa zigomba kugaragaza ibyo abakozi bakeneye gukosorwa, ibyavuguruwe, n’amatariki yo kuzuza amahugurwa. Tegura uburyo bwo gukurikirana isozwa ry’amahugurwa hamwe n’ingaruka byatanze. Bika inyandiko zose zerekana ibyo amahugurwa yagezeho.
+
+Igenzura ry’ubushyuhe bw’imwe mu bice by’ububiko rigomba gukorwa buri gihe kugira ngo hamenyekane aho ubushyuhe bushobora guhindagurika. Tegura uburyo bwo gupima ubushyuhe neza kandi bika inyandiko z’ibyo wakosoye.
+
+Gukurikirana icyemezo cy’abakozi bigomba kureba amatariki yo gusoza ibyangombwa, ibisabwa kugira ngo basubire mu mahugurwa, n’uburyo ibyo byemezo byemezwa ko bigikora. Shyiraho uburyo bwo kwibutsa ibihe byo gusubira mu mahugurwa kandi bika inyandiko zose z’ibyangombwa by’abakozi.
+
+Inyandiko z’imyanda y’inkingo zigomba kugaragaza impamvu zatumye zitaramba, uko zajugunywe, n’uburyo bwo gukoresha bunoze. Tegura gahunda zihariye zerekeye imyanda itandukanye kandi bika inyandiko zuzuye zose zijyanye no kuyijugunya.
+
+Inyandiko z’ibyakozwe mu gihe habaye ibibazo byihutirwa zigomba kugaragaza uko ikibazo cyagenze, ingamba zafashwe, n’uburyo byagenzuwe. Genzura uburyo ibibazo byakemuwe kandi uhindure gahunda ugendeye ku byo wize. Bika inyandiko zose zerekeye ibibazo byose hamwe n’ingamba zafashwe.
+
+Ibikoresho byigisha abarwayi bigomba guhora bisuzumwa hagamijwe kumenya neza niba bifite ukuri, bisomeka neza, kandi bijyanye n’amabwiriza agezweho. Tegura uburyo bwo kubivugurura hakurikijwe inama z’abarwayi n’ayo mabwiriza mashya. Bika kopi z’amabwiriza ashaje nk’inyandiko z’igihe kizaza.
+
+Gukurikirana uko ibikorwa byo gukingira biri kugenda bigomba kureba uburyo abaturage bagezweho, uko imigambi yagezweho, n’ahakenewe izindi ngufu. Tegura uburyo bwo gukusanya amakuru y’igihe nyacyo ku bikorwa byo gukingira kandi wandike uburyo byose byakozwe.
+
+Gukingira ni imwe mu bikorwa bifite akamaro kanini mu buvuzi, kuko byatumye habaho gukumira urupfu n’ubumuga mu bantu benshi ku isi hose. Kwitabira gahunda zo gukingira ni uburyo bwo kurinda abantu ku giti cyabo no kurinda umuryango wose indwara z’ibyorezo. Gusobanukirwa uruhare rw’inkingo mu buzima rusange bifasha gukomeza gushyigikira no kuzamura urwego rwo gukingirwa ku nyungu z’amazina azaza.
